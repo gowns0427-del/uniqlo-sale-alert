@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>유니클로 세일 알림판</title>
+<meta name="description" content="유니클로 한국 기간한정가격·가격인하 현황을 1시간마다 모아 보여주는 오픈소스 대시보드">
+<style>
+  :root {
+    --bg: #f6f5f2;
+    --surface: #ffffff;
+    --surface-2: #efede8;
+    --text: #1b1b1b;
+    --muted: #6b6862;
+    --line: #e2dfd8;
+    --accent: #d81e05;
+    --accent-soft: #fbe6e2;
+    --ok: #1f7a4d;
+    --ok-soft: #e1f2e8;
+    --shadow: 0 1px 2px rgba(0,0,0,.04), 0 4px 16px rgba(0,0,0,.04);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #141414; --surface: #1d1d1d; --surface-2: #262626; --text: #f1efea; --muted: #a39f97;
+      --line: #333; --accent: #ff4d38; --accent-soft: #3a1914; --ok: #4fc58a; --ok-soft: #14301f;
+      --shadow: none;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #141414; --surface: #1d1d1d; --surface-2: #262626; --text: #f1efea; --muted: #a39f97;
+    --line: #333; --accent: #ff4d38; --accent-soft: #3a1914; --ok: #4fc58a; --ok-soft: #14301f;
+    --shadow: none;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", "Malgun Gothic", "Noto Sans KR", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 24px 16px 64px; }
+  header { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 20px; }
+  .brand { display: flex; align-items: center; gap: 10px; }
+  .logo { width: 34px; height: 34px; border-radius: 6px; background: var(--accent); color: #fff; display: grid; place-items: center; font-weight: 800; font-size: 13px; letter-spacing: -.5px; }
+  h1 { font-size: 20px; margin: 0; letter-spacing: -.3px; }
+  .updated { color: var(--muted); font-size: 13px; }
+  .theme-btn { border: 1px solid var(--line); background: var(--surface); color: var(--text); border-radius: 999px; padding: 6px 12px; font-size: 13px; cursor: pointer; }
+
+  .hero { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 22px; box-shadow: var(--shadow); display: grid; gap: 6px; }
+  .hero.live { border-color: var(--accent); background: linear-gradient(0deg, var(--surface), var(--surface)) padding-box; }
+  .pill { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 700; padding: 4px 10px; border-radius: 999px; width: fit-content; }
+  .pill.live { background: var(--accent-soft); color: var(--accent); }
+  .pill.idle { background: var(--surface-2); color: var(--muted); }
+  .pill.big { background: var(--accent); color: #fff; }
+  .dot { width: 7px; height: 7px; border-radius: 50%; background: currentColor; animation: pulse 1.6s infinite; }
+  @keyframes pulse { 50% { opacity: .3; } }
+  .hero-title { font-size: 26px; font-weight: 800; letter-spacing: -.6px; margin: 4px 0 0; }
+  .hero-sub { color: var(--muted); margin: 0; }
+  .countdown { font-variant-numeric: tabular-nums; font-weight: 700; color: var(--accent); }
+
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 14px 0 28px; }
+  .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+  .stat .k { color: var(--muted); font-size: 12px; }
+  .stat .v { font-size: 24px; font-weight: 800; font-variant-numeric: tabular-nums; letter-spacing: -.5px; }
+  .stat .v small { font-size: 13px; font-weight: 500; color: var(--muted); margin-left: 2px; }
+
+  section { margin-top: 32px; }
+  .sec-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
+  h2 { font-size: 18px; margin: 0; letter-spacing: -.3px; }
+  .sec-note { color: var(--muted); font-size: 13px; }
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; }
+  .chip { border: 1px solid var(--line); background: var(--surface); color: var(--text); border-radius: 999px; padding: 5px 12px; font-size: 13px; cursor: pointer; }
+  .chip[aria-pressed="true"] { background: var(--text); color: var(--bg); border-color: var(--text); }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; text-decoration: none; display: flex; flex-direction: column; transition: transform .15s; }
+  .card:hover { transform: translateY(-2px); }
+  .card img { width: 100%; aspect-ratio: 3/4; object-fit: cover; background: var(--surface-2); display: block; }
+  .card .body { padding: 10px 11px 12px; display: grid; gap: 3px; }
+  .card .g { font-size: 11px; color: var(--muted); font-weight: 600; letter-spacing: .3px; }
+  .card .n { font-size: 13px; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; min-height: 2.7em; }
+  .card .p { font-weight: 800; color: var(--accent); font-variant-numeric: tabular-nums; }
+  .card .m { font-size: 11px; color: var(--muted); }
+  .more { margin: 14px auto 0; display: block; }
+
+  table { width: 100%; border-collapse: collapse; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; font-size: 14px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+  th { font-size: 12px; color: var(--muted); font-weight: 600; background: var(--surface-2); }
+  tr:last-child td { border-bottom: 0; }
+  td.num { font-variant-numeric: tabular-nums; text-align: right; }
+  th.num { text-align: right; }
+  .tag { font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 999px; }
+  .tag.live { background: var(--accent-soft); color: var(--accent); }
+  .tag.done { background: var(--surface-2); color: var(--muted); }
+  .table-wrap { overflow-x: auto; border-radius: 12px; }
+
+  .empty, .error { background: var(--surface); border: 1px dashed var(--line); border-radius: 12px; padding: 28px; text-align: center; color: var(--muted); }
+  footer { margin-top: 48px; color: var(--muted); font-size: 12px; line-height: 1.7; }
+
+  @media (max-width: 640px) {
+    .stats { grid-template-columns: repeat(2, 1fr); }
+    .hero-title { font-size: 21px; }
+    .grid { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+    th, td { padding: 9px 10px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <div class="logo">SALE</div>
+      <div>
+        <h1>유니클로 세일 알림판</h1>
+        <div class="updated" id="updated">불러오는 중…</div>
+      </div>
+    </div>
+    <button class="theme-btn" id="theme-btn" type="button">테마 전환</button>
+  </header>
+
+  <main id="app"></main>
+
+  <footer>
+    유니클로 한국 공식 사이트의 상품 검색 결과를 1시간마다 모아 보여줍니다. 가격과 기간은 수집 시점 기준이며, 정확한 정보는 유니클로 공식 사이트에서 확인하세요.<br>
+    이 프로젝트는 유니클로(주식회사 패스트리테일링)와 관련이 없는 비공식 오픈소스입니다.
+  </footer>
+</div>
+
+<script>
+(() => {
+  const app = document.getElementById("app");
+  const won = (n) => n == null ? "" : "₩" + n.toLocaleString("ko-KR");
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const shortDate = (d) => {
+    const m = /^(\d{4})\/(\d{2})\/(\d{2})$/.exec(d || "");
+    if (!m) return d || "";
+    const date = new Date(+m[1], +m[2] - 1, +m[3]);
+    return `${+m[2]}/${+m[3]}(${"일월화수목금토"[date.getDay()]})`;
+  };
+  const GENDERS = ["전체", "WOMEN", "MEN", "UNISEX", "KIDS", "BABY"];
+
+  // 테마 전환은 이 브라우저에만 기억한다.
+  const themeBtn = document.getElementById("theme-btn");
+  const applyTheme = (t) => { if (t) document.documentElement.dataset.theme = t; else delete document.documentElement.dataset.theme; };
+  try { applyTheme(localStorage.getItem("theme")); } catch {}
+  themeBtn.addEventListener("click", () => {
+    const dark = document.documentElement.dataset.theme
+      ? document.documentElement.dataset.theme === "dark"
+      : matchMedia("(prefers-color-scheme: dark)").matches;
+    const next = dark ? "light" : "dark";
+    applyTheme(next);
+    try { localStorage.setItem("theme", next); } catch {}
+  });
+
+  function card(p, meta) {
+    return `<a class="card" href="${esc(p.url)}" target="_blank" rel="noopener">
+      <img src="${esc(p.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">
+      <div class="body">
+        <span class="g">${esc(p.gender)}</span>
+        <span class="n">${esc(p.name)}</span>
+        <span class="p">${won(p.price)}</span>
+        ${meta ? `<span class="m">${esc(meta)}</span>` : ""}
+      </div>
+    </a>`;
+  }
+
+  // 성별 필터와 "더 보기"가 있는 상품 그리드
+  function productSection(container, products, metaFn, pageSize = 12) {
+    let gender = "전체", shown = pageSize;
+    const present = GENDERS.filter((g) => g === "전체" || products.some((p) => p.gender === g));
+    const chips = container.querySelector(".chips");
+    const grid = container.querySelector(".grid");
+    const more = container.querySelector(".more");
+    chips.innerHTML = present.map((g) => `<button type="button" class="chip" aria-pressed="${g === gender}">${g === "전체" ? "전체" : g}</button>`).join("");
+    const render = () => {
+      const list = products.filter((p) => gender === "전체" || p.gender === gender);
+      grid.innerHTML = list.slice(0, shown).map((p) => card(p, metaFn && metaFn(p))).join("") || `<div class="empty">해당 상품이 없어요.</div>`;
+      more.hidden = list.length <= shown;
+      more.textContent = `더 보기 (${list.length - shown}개)`;
+      chips.querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", c.textContent === gender));
+    };
+    chips.addEventListener("click", (e) => {
+      const b = e.target.closest(".chip"); if (!b) return;
+      gender = b.textContent; shown = pageSize; render();
+    });
+    more.addEventListener("click", () => { shown += pageSize * 2; render(); });
+    render();
+  }
+
+  function countdown(endTs) {
+    const left = endTs * 1000 - Date.now();
+    if (left <= 0) return "종료됨";
+    const d = Math.floor(left / 864e5), h = Math.floor(left / 36e5) % 24, m = Math.floor(left / 6e4) % 60;
+    return d > 0 ? `${d}일 ${h}시간 남음` : `${h}시간 ${m}분 남음`;
+  }
+
+  function render(data) {
+    const updated = new Date(data.updatedAt);
+    const ago = Math.round((Date.now() - updated) / 6e4);
+    document.getElementById("updated").textContent =
+      `${updated.toLocaleString("ko-KR", { month: "long", day: "numeric", hour: "2-digit", minute: "2-digit" })} 업데이트` +
+      (ago >= 0 ? ` · ${ago < 60 ? ago + "분" : Math.round(ago / 60) + "시간"} 전` : "");
+
+    const now = Date.now() / 1000;
+    const live = data.periods.filter((p) => !p.end || p.end > now);
+    const s = data.status;
+    const counts = Object.fromEntries(data.flagCounts.map((f) => [f.code, f]));
+    const main = live[0];
+
+    let html = "";
+    if (main) {
+      html += `<div class="hero live">
+        <div style="display:flex;gap:6px;flex-wrap:wrap">
+          <span class="pill live"><span class="dot"></span>${esc(main.label)} 진행 중</span>
+          ${s.bigSale ? `<span class="pill big">대형 세일 감지 · 감사제 가능성</span>` : ""}
+        </div>
+        <p class="hero-title">${shortDate(main.startDate)} ~ ${shortDate(main.endDate)}</p>
+        <p class="hero-sub">${main.count}개 상품 · ${main.end ? `<span class="countdown" data-end="${main.end}">${countdown(main.end)}</span>` : "종료일 미정"}
+        ${live.length > 1 ? ` · 진행 중인 회차 ${live.length}개` : ""}</p>
+      </div>`;
+    } else {
+      html += `<div class="hero">
+        <span class="pill idle">진행 중인 기간한정가격 없음</span>
+        <p class="hero-title">다음 세일을 기다리는 중</p>
+        <p class="hero-sub">새 기간한정가격이 시작되면 이 페이지에 바로 표시돼요. 가격인하 상품은 아래에서 볼 수 있어요.</p>
+      </div>`;
+    }
+
+    const stat = (k, v) => `<div class="stat"><div class="k">${k}</div><div class="v">${v ?? 0}<small>개</small></div></div>`;
+    html += `<div class="stats">
+      ${stat("기간한정가격", s.limitedOfferCount)}
+      ${stat("가격인하", s.discountCount)}
+      ${stat("세트할인", counts.multibuy?.count)}
+      ${stat("옵션할인", counts.colorSizeLimitedPrice?.count)}
+    </div>`;
+
+    live.forEach((p, i) => {
+      html += `<section data-period="${i}">
+        <div class="sec-head">
+          <div><h2>${esc(p.label)} 상품</h2><div class="sec-note">${shortDate(p.startDate)} ~ ${shortDate(p.endDate)}까지 · ${p.count}개</div></div>
+          <div class="chips"></div>
+        </div>
+        <div class="grid"></div>
+        <button class="chip more" type="button" hidden></button>
+      </section>`;
+    });
+
+    if (data.discount.length) {
+      html += `<section id="discount">
+        <div class="sec-head">
+          <div><h2>최근 가격인하</h2><div class="sec-note">가격이 내려간 날짜가 최근인 순 · 전체 ${s.discountCount}개 중 ${data.discount.length}개</div></div>
+          <div class="chips"></div>
+        </div>
+        <div class="grid"></div>
+        <button class="chip more" type="button" hidden></button>
+      </section>`;
+    }
+
+    html += `<section>
+      <div class="sec-head"><div><h2>세일 기록</h2><div class="sec-note">이 알림판이 지금까지 감지한 기간한정가격 회차</div></div></div>
+      ${data.history.length ? `<div class="table-wrap"><table>
+        <thead><tr><th>기간</th><th>종류</th><th class="num">상품 수</th><th>상태</th></tr></thead>
+        <tbody>${data.history.map((h) => {
+          const on = !h.end || h.end > now;
+          return `<tr><td>${shortDate(h.startDate)} ~ ${shortDate(h.endDate)}</td><td>${esc(h.label)}</td>
+            <td class="num">${h.maxCount}</td><td><span class="tag ${on ? "live" : "done"}">${on ? "진행 중" : "종료"}</span></td></tr>`;
+        }).join("")}</tbody></table></div>` : `<div class="empty">아직 기록이 없어요.</div>`}
+    </section>`;
+
+    app.innerHTML = html;
+
+    live.forEach((p, i) => productSection(app.querySelector(`[data-period="${i}"]`), p.products));
+    const disc = app.querySelector("#discount");
+    if (disc) productSection(disc, data.discount, (p) => p.since ? `${shortDate(p.since)}부터 인하` : "");
+
+    setInterval(() => {
+      document.querySelectorAll(".countdown").forEach((el) => { el.textContent = countdown(+el.dataset.end); });
+    }, 30000);
+  }
+
+  fetch("data.json", { cache: "no-store" })
+    .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(render)
+    .catch((e) => {
+      document.getElementById("updated").textContent = "데이터를 불러오지 못했어요";
+      app.innerHTML = `<div class="error">data.json을 불러오지 못했어요 (${esc(e.message)}).<br>수집기를 한 번 실행했는지 확인해 주세요: <code>python collector/collect.py</code></div>`;
+    });
+})();
+</script>
+</body>
+</html>
