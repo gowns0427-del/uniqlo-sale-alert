@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-10-31T23:39:19+09:00",
+ "updatedAt": "2026-11-01T00:38:54+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
-  "discountCount": 285,
+  "discountCount": 283,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 285
+   "count": 283
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 32
+   "count": 31
   },
   {
    "code": "salesStart",
@@ -40,7 +40,7 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 206
+   "count": 207
   },
   {
    "code": "limitedStore",
@@ -50,7 +50,7 @@
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 244
+   "count": 243
   },
   {
    "code": "unisex",
@@ -713,18 +713,6 @@
    "sinceTs": 1793034000
   },
   {
-   "id": "E488814-000",
-   "name": "스마트큐롯(프린트)",
-   "gender": "WOMEN",
-   "price": 12900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488814/item/krgoods_08_488814_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488814-000/00",
-   "rating": 5,
-   "reviews": 4,
-   "since": "2026/10/27",
-   "sinceTs": 1793034000
-  },
-  {
    "id": "E488801-000",
    "name": "드레이프셔츠",
    "gender": "UNISEX",
@@ -951,6 +939,18 @@
    "reviews": 8,
    "since": "2026/10/27",
    "sinceTs": 1793034000
+  },
+  {
+   "id": "E487842-000",
+   "name": "더플코트",
+   "gender": "UNISEX",
+   "price": 149000,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487842/item/krgoods_09_487842_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E487842-000/00",
+   "rating": 5,
+   "reviews": 2,
+   "since": "2026/10/27",
+   "sinceTs": 1793034000
   }
  ],
  "history": [
@@ -963,7 +963,7 @@
    "end": 1793898000,
    "firstSeen": "2026-10-31T09:35:45+09:00",
    "maxCount": 16,
-   "lastSeen": "2026-10-31T23:39:19+09:00"
+   "lastSeen": "2026-11-01T00:38:54+09:00"
   }
  ]
 }
