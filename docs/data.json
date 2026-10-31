@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-01T05:38:40+09:00",
+ "updatedAt": "2026-11-01T06:38:19+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
-  "discountCount": 292,
+  "discountCount": 291,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,7 +20,7 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 292
+   "count": 291
   },
   {
    "code": "colorSizeLimitedPrice",
@@ -50,12 +50,12 @@
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 245
+   "count": 244
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 283
+   "count": 282
   }
  ],
  "periods": [
@@ -689,18 +689,6 @@
    "sinceTs": 1793034000
   },
   {
-   "id": "E489060-000",
-   "name": "스트라이프폴로셔츠(긴팔)A",
-   "gender": "UNISEX",
-   "price": 29900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489060/item/krgoods_01_489060_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489060-000/00",
-   "rating": 4.8,
-   "reviews": 16,
-   "since": "2026/10/27",
-   "sinceTs": 1793034000
-  },
-  {
    "id": "E488816-000",
    "name": "플리츠스코츠(스트라이프)",
    "gender": "WOMEN",
@@ -951,6 +939,18 @@
    "reviews": 2,
    "since": "2026/10/27",
    "sinceTs": 1793034000
+  },
+  {
+   "id": "E487589-000",
+   "name": "코튼볼륨이지팬츠",
+   "gender": "WOMEN",
+   "price": 29900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487589/item/krgoods_11_487589_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E487589-000/01",
+   "rating": 4.7,
+   "reviews": 89,
+   "since": "2026/10/27",
+   "sinceTs": 1793034000
   }
  ],
  "history": [
@@ -963,7 +963,7 @@
    "end": 1793898000,
    "firstSeen": "2026-10-31T09:35:45+09:00",
    "maxCount": 16,
-   "lastSeen": "2026-11-01T05:38:40+09:00"
+   "lastSeen": "2026-11-01T06:38:19+09:00"
   }
  ]
 }
