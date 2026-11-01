@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T23:41:04+09:00",
+ "updatedAt": "2026-11-02T00:38:53+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
@@ -30,12 +30,17 @@
   {
    "code": "salesStart",
    "name": "NEW",
-   "count": 20
+   "count": 16
+  },
+  {
+   "code": "newSKU",
+   "name": "New Color",
+   "count": 1
   },
   {
    "code": "comingSoon",
    "name": "판매예정",
-   "count": 88
+   "count": 93
   },
   {
    "code": "onlineOnly",
@@ -55,7 +60,7 @@
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 276
+   "count": 277
   }
  ],
  "periods": [
@@ -509,18 +514,6 @@
    "sinceTs": 1793034000
   },
   {
-   "id": "E489530-001",
-   "name": "BN Picture Book바디수트(긴팔)애벌레B 60cm",
-   "gender": "BABY",
-   "price": 5000,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489530001/item/krgoods_01_489530001_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489530-001/00",
-   "rating": 5,
-   "reviews": 2,
-   "since": "2026/10/27",
-   "sinceTs": 1793034000
-  },
-  {
    "id": "E489530-000",
    "name": "BN Picture Book바디수트(긴팔)애벌레B",
    "gender": "BABY",
@@ -951,6 +944,18 @@
    "reviews": 16,
    "since": "2026/10/27",
    "sinceTs": 1793034000
+  },
+  {
+   "id": "E487487-000",
+   "name": "메리노블렌드크루넥스웨터",
+   "gender": "MEN",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487487/item/krgoods_39_487487_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E487487-000/00",
+   "rating": 3,
+   "reviews": 2,
+   "since": "2026/10/27",
+   "sinceTs": 1793034000
   }
  ],
  "history": [
@@ -963,7 +968,7 @@
    "end": 1793898000,
    "firstSeen": "2026-10-31T09:35:45+09:00",
    "maxCount": 16,
-   "lastSeen": "2026-11-01T23:41:04+09:00"
+   "lastSeen": "2026-11-02T00:38:53+09:00"
   }
  ]
 }
