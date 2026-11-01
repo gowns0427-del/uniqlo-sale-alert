@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-01T14:48:08+09:00",
+ "updatedAt": "2026-11-01T15:57:33+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
-  "discountCount": 274,
+  "discountCount": 273,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,7 +20,7 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 274
+   "count": 273
   },
   {
    "code": "colorSizeLimitedPrice",
@@ -40,22 +40,22 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 204
+   "count": 203
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 374
+   "count": 373
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 239
+   "count": 240
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 278
+   "count": 277
   }
  ],
  "periods": [
@@ -509,18 +509,6 @@
    "sinceTs": 1793034000
   },
   {
-   "id": "E491001-000",
-   "name": "Jason Polan스웨트셔츠B",
-   "gender": "MEN",
-   "price": 29900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491001/item/krgoods_67_491001_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E491001-000/00",
-   "rating": 0,
-   "reviews": 0,
-   "since": "2026/10/27",
-   "sinceTs": 1793034000
-  },
-  {
    "id": "E489530-001",
    "name": "BN Picture Book바디수트(긴팔)애벌레B 60cm",
    "gender": "BABY",
@@ -589,18 +577,6 @@
    "url": "https://www.uniqlo.com/kr/ko/products/E489415-000/00",
    "rating": 5,
    "reviews": 2,
-   "since": "2026/10/27",
-   "sinceTs": 1793034000
-  },
-  {
-   "id": "E489399-000",
-   "name": "립V넥가디건(플라워)",
-   "gender": "WOMEN",
-   "price": 9900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489399/item/krgoods_01_489399_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489399-000/00",
-   "rating": 4.8,
-   "reviews": 14,
    "since": "2026/10/27",
    "sinceTs": 1793034000
   },
@@ -951,6 +927,30 @@
    "reviews": 89,
    "since": "2026/10/27",
    "sinceTs": 1793034000
+  },
+  {
+   "id": "E487528-000",
+   "name": "레이온스키퍼칼라블라우스(7부)스트라이프",
+   "gender": "WOMEN",
+   "price": 12900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487528/item/krgoods_00_487528_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E487528-000/00",
+   "rating": 5,
+   "reviews": 5,
+   "since": "2026/10/27",
+   "sinceTs": 1793034000
+  },
+  {
+   "id": "E487516-000",
+   "name": "집업쇼트재킷",
+   "gender": "UNISEX",
+   "price": 49900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487516/item/krgoods_38_487516_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E487516-000/00",
+   "rating": 4.8,
+   "reviews": 15,
+   "since": "2026/10/27",
+   "sinceTs": 1793034000
   }
  ],
  "history": [
@@ -963,7 +963,7 @@
    "end": 1793898000,
    "firstSeen": "2026-10-31T09:35:45+09:00",
    "maxCount": 16,
-   "lastSeen": "2026-11-01T14:48:08+09:00"
+   "lastSeen": "2026-11-01T15:57:33+09:00"
   }
  ]
 }
