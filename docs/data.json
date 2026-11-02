@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-03T06:44:00+09:00",
+ "updatedAt": "2026-11-03T07:44:59+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
-  "discountCount": 351,
+  "discountCount": 350,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,7 +20,7 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 351
+   "count": 350
   },
   {
    "code": "colorSizeLimitedPrice",
@@ -50,12 +50,12 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 373
+   "count": 372
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 238
+   "count": 237
   },
   {
    "code": "unisex",
@@ -77,7 +77,7 @@
      "name": "메리노크루넥가디건(컬러블록)",
      "gender": "WOMEN",
      "price": 39900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491608/item/krgoods_69_491608_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491608/item/krgoods_38_491608_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E491608-000/00",
      "rating": 5,
      "reviews": 1
@@ -200,7 +200,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481040/item/krgoods_03_481040_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E481040-000/00",
      "rating": 4.8,
-     "reviews": 544
+     "reviews": 545
     },
     {
      "id": "E479000-000",
@@ -210,7 +210,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/479000/item/krgoods_67_479000_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E479000-000/00",
      "rating": 4.8,
-     "reviews": 1873
+     "reviews": 1874
     },
     {
      "id": "E471808-000",
@@ -868,8 +868,8 @@
    "price": 12900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491826/item/krgoods_69_491826_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491826-000/00",
-   "rating": 0,
-   "reviews": 0,
+   "rating": 5,
+   "reviews": 1,
    "since": "2026/11/03",
    "sinceTs": 1793638800
   },
@@ -968,7 +968,7 @@
    "end": 1793898000,
    "firstSeen": "2026-10-31T09:35:45+09:00",
    "maxCount": 16,
-   "lastSeen": "2026-11-03T06:44:00+09:00"
+   "lastSeen": "2026-11-03T07:44:59+09:00"
   }
  ]
 }
