@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-03T01:02:22+09:00",
+ "updatedAt": "2026-11-03T02:06:02+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
-  "discountCount": 261,
+  "discountCount": 259,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 261
+   "count": 259
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 29
+   "count": 28
   },
   {
    "code": "salesStart",
@@ -45,17 +45,17 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 197
+   "count": 198
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 369
+   "count": 368
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 238
+   "count": 237
   },
   {
    "code": "unisex",
@@ -110,7 +110,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488743/item/krgoods_09_488743_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E488743-000/00",
      "rating": 4.9,
-     "reviews": 153
+     "reviews": 154
     },
     {
      "id": "E488298-000",
@@ -120,7 +120,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488298/item/krgoods_69_488298_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E488298-000/00",
      "rating": 4.8,
-     "reviews": 376
+     "reviews": 377
     },
     {
      "id": "E487488-000",
@@ -139,8 +139,8 @@
      "price": 59900,
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487404/item/krgoods_09_487404_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E487404-000/00",
-     "rating": 4.6,
-     "reviews": 23
+     "rating": 4.7,
+     "reviews": 24
     },
     {
      "id": "E486819-000",
@@ -200,7 +200,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481040/item/krgoods_03_481040_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E481040-000/00",
      "rating": 4.8,
-     "reviews": 541
+     "reviews": 544
     },
     {
      "id": "E479000-000",
@@ -230,7 +230,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/469411/item/krgoods_62_469411_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E469411-000/00",
      "rating": 4.8,
-     "reviews": 649
+     "reviews": 650
     }
    ],
    "count": 16
@@ -256,8 +256,8 @@
    "price": 29900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492900/item/krgoods_07_492900_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E492900-000/00",
-   "rating": 4.6,
-   "reviews": 6,
+   "rating": 4.7,
+   "reviews": 7,
    "since": "2026/10/27",
    "sinceTs": 1793034000
   },
@@ -514,18 +514,6 @@
    "sinceTs": 1793034000
   },
   {
-   "id": "E491001-000",
-   "name": "Jason Polan스웨트셔츠B",
-   "gender": "MEN",
-   "price": 29900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491001/item/krgoods_67_491001_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E491001-000/00",
-   "rating": 0,
-   "reviews": 0,
-   "since": "2026/10/27",
-   "sinceTs": 1793034000
-  },
-  {
    "id": "E489530-000",
    "name": "BN Picture Book바디수트(긴팔)애벌레B",
    "gender": "BABY",
@@ -581,7 +569,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489372/item/krgoods_69_489372_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E489372-000/00",
    "rating": 4.7,
-   "reviews": 146,
+   "reviews": 147,
    "since": "2026/10/27",
    "sinceTs": 1793034000
   },
@@ -673,7 +661,7 @@
    "id": "E488787-000",
    "name": "집업쇼트재킷(데님)",
    "gender": "UNISEX",
-   "price": 49900,
+   "price": 39900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488787/item/krgoods_69_488787_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488787-000/00",
    "rating": 4.6,
@@ -685,7 +673,7 @@
    "id": "E488785-000",
    "name": "집업쇼트재킷(패턴)",
    "gender": "UNISEX",
-   "price": 49900,
+   "price": 39900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488785/item/krgoods_34_488785_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488785-000/00",
    "rating": 4.8,
@@ -761,7 +749,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488462/item/krgoods_34_488462_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488462-000/00",
    "rating": 4.8,
-   "reviews": 21,
+   "reviews": 22,
    "since": "2026/10/27",
    "sinceTs": 1793034000
   },
@@ -793,7 +781,7 @@
    "id": "E488185-000",
    "name": "새틴콤비네이션원피스",
    "gender": "WOMEN",
-   "price": 29900,
+   "price": 19900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488185/item/krgoods_39_488185_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488185-000/00",
    "rating": 4.5,
@@ -841,7 +829,7 @@
    "id": "E487957-000",
    "name": "스마트와이드스트레이트팬츠",
    "gender": "WOMEN",
-   "price": 19900,
+   "price": 12900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487957/item/krgoods_01_487957_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E487957-000/01",
    "rating": 4.8,
@@ -913,7 +901,7 @@
    "id": "E487516-000",
    "name": "집업쇼트재킷",
    "gender": "UNISEX",
-   "price": 49900,
+   "price": 39900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487516/item/krgoods_38_487516_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E487516-000/00",
    "rating": 4.8,
@@ -956,6 +944,18 @@
    "reviews": 9,
    "since": "2026/10/27",
    "sinceTs": 1793034000
+  },
+  {
+   "id": "E487258-000",
+   "name": "이지와이드팬츠",
+   "gender": "MEN",
+   "price": 49900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487258/item/krgoods_06_487258_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E487258-000/00",
+   "rating": 5,
+   "reviews": 1,
+   "since": "2026/10/27",
+   "sinceTs": 1793034000
   }
  ],
  "history": [
@@ -968,7 +968,7 @@
    "end": 1793898000,
    "firstSeen": "2026-10-31T09:35:45+09:00",
    "maxCount": 16,
-   "lastSeen": "2026-11-03T01:02:22+09:00"
+   "lastSeen": "2026-11-03T02:06:02+09:00"
   }
  ]
 }
