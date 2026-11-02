@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-02T23:59:03+09:00",
+ "updatedAt": "2026-11-03T01:02:22+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
-  "discountCount": 259,
+  "discountCount": 261,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 259
+   "count": 261
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 28
+   "count": 29
   },
   {
    "code": "salesStart",
@@ -50,12 +50,12 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 367
+   "count": 369
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 237
+   "count": 238
   },
   {
    "code": "unisex",
@@ -574,18 +574,6 @@
    "sinceTs": 1793034000
   },
   {
-   "id": "E489398-000",
-   "name": "립V넥가디건(스트라이프)",
-   "gender": "WOMEN",
-   "price": 9900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489398/item/krgoods_69_489398_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489398-000/00",
-   "rating": 5,
-   "reviews": 10,
-   "since": "2026/10/27",
-   "sinceTs": 1793034000
-  },
-  {
    "id": "E489372-000",
    "name": "미니T(긴팔)래글런",
    "gender": "WOMEN",
@@ -818,7 +806,7 @@
    "name": "스마트큐롯",
    "gender": "WOMEN",
    "price": 12900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488010/item/krgoods_57_488010_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488010/item/krgoods_09_488010_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488010-000/00",
    "rating": 4.9,
    "reviews": 21,
@@ -956,6 +944,18 @@
    "reviews": 3,
    "since": "2026/10/27",
    "sinceTs": 1793034000
+  },
+  {
+   "id": "E487270-000",
+   "name": "이지와이드팬츠",
+   "gender": "MEN",
+   "price": 49900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487270/item/krgoods_34_487270_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E487270-000/00",
+   "rating": 5,
+   "reviews": 9,
+   "since": "2026/10/27",
+   "sinceTs": 1793034000
   }
  ],
  "history": [
@@ -968,7 +968,7 @@
    "end": 1793898000,
    "firstSeen": "2026-10-31T09:35:45+09:00",
    "maxCount": 16,
-   "lastSeen": "2026-11-02T23:59:03+09:00"
+   "lastSeen": "2026-11-03T01:02:22+09:00"
   }
  ]
 }
