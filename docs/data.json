@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-03T19:57:23+09:00",
+ "updatedAt": "2026-11-03T20:51:44+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
-  "discountCount": 350,
+  "discountCount": 349,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,7 +20,7 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 350
+   "count": 349
   },
   {
    "code": "colorSizeLimitedPrice",
@@ -45,12 +45,12 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 197
+   "count": 198
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 375
+   "count": 373
   },
   {
    "code": "extraLargeStoreOnly",
@@ -120,7 +120,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488298/item/krgoods_69_488298_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E488298-000/00",
      "rating": 4.8,
-     "reviews": 381
+     "reviews": 383
     },
     {
      "id": "E487488-000",
@@ -968,7 +968,7 @@
    "end": 1793898000,
    "firstSeen": "2026-10-31T09:35:45+09:00",
    "maxCount": 16,
-   "lastSeen": "2026-11-03T19:57:23+09:00"
+   "lastSeen": "2026-11-03T20:51:44+09:00"
   }
  ]
 }
