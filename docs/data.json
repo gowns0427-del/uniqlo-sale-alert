@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-03T12:54:08+09:00",
+ "updatedAt": "2026-11-03T13:56:57+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
-  "discountCount": 348,
+  "discountCount": 347,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 348
+   "count": 347
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 40
+   "count": 39
   },
   {
    "code": "salesStart",
@@ -45,7 +45,7 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 196
+   "count": 197
   },
   {
    "code": "limitedStore",
@@ -100,7 +100,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491119/item/krgoods_30_491119_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E491119-000/00",
      "rating": 4.9,
-     "reviews": 88
+     "reviews": 89
     },
     {
      "id": "E488743-000",
@@ -139,7 +139,7 @@
      "price": 59900,
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487404/item/krgoods_09_487404_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E487404-000/00",
-     "rating": 4.7,
+     "rating": 4.8,
      "reviews": 24
     },
     {
@@ -200,7 +200,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481040/item/krgoods_03_481040_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E481040-000/00",
      "rating": 4.8,
-     "reviews": 545
+     "reviews": 546
     },
     {
      "id": "E479000-000",
@@ -210,7 +210,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/479000/item/krgoods_67_479000_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E479000-000/00",
      "rating": 4.8,
-     "reviews": 1874
+     "reviews": 1873
     },
     {
      "id": "E471808-000",
@@ -220,7 +220,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/471808/item/krgoods_69_471808_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E471808-000/00",
      "rating": 4.8,
-     "reviews": 386
+     "reviews": 387
     },
     {
      "id": "E469411-000",
@@ -968,7 +968,7 @@
    "end": 1793898000,
    "firstSeen": "2026-10-31T09:35:45+09:00",
    "maxCount": 16,
-   "lastSeen": "2026-11-03T12:54:08+09:00"
+   "lastSeen": "2026-11-03T13:56:57+09:00"
   }
  ]
 }
