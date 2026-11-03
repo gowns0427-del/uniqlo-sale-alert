@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-03T18:57:37+09:00",
+ "updatedAt": "2026-11-03T19:57:23+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
-  "discountCount": 347,
+  "discountCount": 350,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 347
+   "count": 350
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 40
+   "count": 41
   },
   {
    "code": "salesStart",
@@ -50,12 +50,12 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 374
+   "count": 375
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 237
+   "count": 238
   },
   {
    "code": "unisex",
@@ -90,7 +90,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491292/item/krgoods_09_491292_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E491292-000/00",
      "rating": 4.9,
-     "reviews": 13
+     "reviews": 14
     },
     {
      "id": "E491119-000",
@@ -100,7 +100,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491119/item/krgoods_30_491119_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E491119-000/00",
      "rating": 4.9,
-     "reviews": 89
+     "reviews": 92
     },
     {
      "id": "E488743-000",
@@ -110,7 +110,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488743/item/krgoods_09_488743_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E488743-000/00",
      "rating": 4.9,
-     "reviews": 154
+     "reviews": 156
     },
     {
      "id": "E488298-000",
@@ -120,7 +120,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488298/item/krgoods_69_488298_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E488298-000/00",
      "rating": 4.8,
-     "reviews": 377
+     "reviews": 381
     },
     {
      "id": "E487488-000",
@@ -129,8 +129,8 @@
      "price": 49900,
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487488/item/krgoods_57_487488_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E487488-000/00",
-     "rating": 4.8,
-     "reviews": 22
+     "rating": 4.7,
+     "reviews": 23
     },
     {
      "id": "E487404-000",
@@ -160,7 +160,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486042/item/krgoods_31_486042_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486042-000/00",
      "rating": 4.8,
-     "reviews": 166
+     "reviews": 167
     },
     {
      "id": "E484807-001",
@@ -190,7 +190,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482280/item/krgoods_64_482280_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E482280-000/00",
      "rating": 4.8,
-     "reviews": 169
+     "reviews": 170
     },
     {
      "id": "E481040-000",
@@ -200,7 +200,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481040/item/krgoods_03_481040_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E481040-000/00",
      "rating": 4.8,
-     "reviews": 546
+     "reviews": 548
     },
     {
      "id": "E479000-000",
@@ -210,7 +210,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/479000/item/krgoods_67_479000_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E479000-000/00",
      "rating": 4.8,
-     "reviews": 1873
+     "reviews": 1875
     },
     {
      "id": "E471808-000",
@@ -353,7 +353,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491983/item/krgoods_55_491983_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491983-000/00",
    "rating": 4,
-   "reviews": 1,
+   "reviews": 2,
    "since": "2026/11/03",
    "sinceTs": 1793638800
   },
@@ -677,7 +677,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491860/item/krgoods_56_491860_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491860-000/00",
    "rating": 4.7,
-   "reviews": 47,
+   "reviews": 48,
    "since": "2026/11/03",
    "sinceTs": 1793638800
   },
@@ -968,7 +968,7 @@
    "end": 1793898000,
    "firstSeen": "2026-10-31T09:35:45+09:00",
    "maxCount": 16,
-   "lastSeen": "2026-11-03T18:57:37+09:00"
+   "lastSeen": "2026-11-03T19:57:23+09:00"
   }
  ]
 }
