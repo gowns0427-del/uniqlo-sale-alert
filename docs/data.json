@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-05T06:51:16+09:00",
+ "updatedAt": "2026-11-05T07:50:29+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
-  "discountCount": 366,
+  "discountCount": 355,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 366
+   "count": 355
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 44
+   "count": 43
   },
   {
    "code": "salesStart",
@@ -45,22 +45,22 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 202
+   "count": 201
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 388
+   "count": 382
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 250
+   "count": 247
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 284
+   "count": 282
   }
  ],
  "periods": [
@@ -77,7 +77,7 @@
      "name": "메리노크루넥가디건(컬러블록)",
      "gender": "WOMEN",
      "price": 39900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491608/item/krgoods_38_491608_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491608/item/krgoods_69_491608_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E491608-000/00",
      "rating": 5,
      "reviews": 1
@@ -120,7 +120,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488298/item/krgoods_69_488298_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E488298-000/00",
      "rating": 4.8,
-     "reviews": 410
+     "reviews": 412
     },
     {
      "id": "E487488-000",
@@ -210,7 +210,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/479000/item/krgoods_67_479000_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E479000-000/00",
      "rating": 4.8,
-     "reviews": 1893
+     "reviews": 1894
     },
     {
      "id": "E471808-000",
@@ -496,8 +496,8 @@
    "price": 29900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491923/item/krgoods_09_491923_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491923-000/00",
-   "rating": 4.5,
-   "reviews": 2,
+   "rating": 5,
+   "reviews": 1,
    "since": "2026/11/03",
    "sinceTs": 1793638800
   },
@@ -968,7 +968,7 @@
    "end": 1793898000,
    "firstSeen": "2026-10-31T09:35:45+09:00",
    "maxCount": 16,
-   "lastSeen": "2026-11-05T06:51:16+09:00"
+   "lastSeen": "2026-11-05T07:50:29+09:00"
   }
  ]
 }
