@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-04T17:59:00+09:00",
+ "updatedAt": "2026-11-04T20:20:39+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
-  "discountCount": 345,
+  "discountCount": 355,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 345
+   "count": 355
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 42
+   "count": 44
   },
   {
    "code": "salesStart",
@@ -50,17 +50,17 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 374
+   "count": 383
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 243
+   "count": 246
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 282
+   "count": 280
   }
  ],
  "periods": [
@@ -89,8 +89,8 @@
      "price": 79900,
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491292/item/krgoods_09_491292_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E491292-000/00",
-     "rating": 4.9,
-     "reviews": 14
+     "rating": 4.8,
+     "reviews": 15
     },
     {
      "id": "E491119-000",
@@ -100,7 +100,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491119/item/krgoods_30_491119_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E491119-000/00",
      "rating": 4.9,
-     "reviews": 95
+     "reviews": 101
     },
     {
      "id": "E488743-000",
@@ -110,7 +110,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488743/item/krgoods_09_488743_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E488743-000/00",
      "rating": 4.9,
-     "reviews": 158
+     "reviews": 169
     },
     {
      "id": "E488298-000",
@@ -120,7 +120,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488298/item/krgoods_69_488298_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E488298-000/00",
      "rating": 4.8,
-     "reviews": 388
+     "reviews": 408
     },
     {
      "id": "E487488-000",
@@ -129,8 +129,8 @@
      "price": 49900,
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487488/item/krgoods_57_487488_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E487488-000/00",
-     "rating": 4.7,
-     "reviews": 24
+     "rating": 4.8,
+     "reviews": 28
     },
     {
      "id": "E487404-000",
@@ -139,8 +139,8 @@
      "price": 59900,
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487404/item/krgoods_09_487404_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E487404-000/00",
-     "rating": 4.8,
-     "reviews": 28
+     "rating": 4.9,
+     "reviews": 41
     },
     {
      "id": "E486819-000",
@@ -150,7 +150,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486819/item/krgoods_08_486819_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486819-000/00",
      "rating": 5,
-     "reviews": 9
+     "reviews": 11
     },
     {
      "id": "E486042-000",
@@ -160,7 +160,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486042/item/krgoods_31_486042_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486042-000/00",
      "rating": 4.8,
-     "reviews": 168
+     "reviews": 169
     },
     {
      "id": "E484807-001",
@@ -180,7 +180,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484807/item/krgoods_31_484807_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E484807-000/00",
      "rating": 4.7,
-     "reviews": 91
+     "reviews": 93
     },
     {
      "id": "E482280-000",
@@ -190,7 +190,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482280/item/krgoods_64_482280_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E482280-000/00",
      "rating": 4.8,
-     "reviews": 170
+     "reviews": 171
     },
     {
      "id": "E481040-000",
@@ -200,7 +200,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/481040/item/krgoods_03_481040_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E481040-000/00",
      "rating": 4.8,
-     "reviews": 549
+     "reviews": 557
     },
     {
      "id": "E479000-000",
@@ -210,7 +210,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/479000/item/krgoods_67_479000_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E479000-000/00",
      "rating": 4.8,
-     "reviews": 1878
+     "reviews": 1891
     },
     {
      "id": "E471808-000",
@@ -220,7 +220,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/471808/item/krgoods_69_471808_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E471808-000/00",
      "rating": 4.8,
-     "reviews": 387
+     "reviews": 390
     },
     {
      "id": "E469411-000",
@@ -230,7 +230,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/469411/item/krgoods_76_469411_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E469411-000/00",
      "rating": 4.8,
-     "reviews": 653
+     "reviews": 659
     }
    ],
    "count": 16
@@ -316,8 +316,8 @@
    "price": 9900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/493044/item/krgoods_08_493044_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E493044-000/00",
-   "rating": 4.6,
-   "reviews": 3,
+   "rating": 4.7,
+   "reviews": 4,
    "since": "2026/11/03",
    "sinceTs": 1793638800
   },
@@ -665,7 +665,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491860/item/krgoods_56_491860_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491860-000/00",
    "rating": 4.7,
-   "reviews": 48,
+   "reviews": 49,
    "since": "2026/11/03",
    "sinceTs": 1793638800
   },
@@ -796,8 +796,8 @@
    "price": 19900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491839/item/krgoods_69_491839_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491839-000/00",
-   "rating": 4.1,
-   "reviews": 9,
+   "rating": 4.2,
+   "reviews": 11,
    "since": "2026/11/03",
    "sinceTs": 1793638800
   },
@@ -917,7 +917,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491808/item/krgoods_45_491808_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491808-000/00",
    "rating": 4,
-   "reviews": 1,
+   "reviews": 2,
    "since": "2026/11/03",
    "sinceTs": 1793638800
   },
@@ -929,7 +929,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491602/item/krgoods_01_491602_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491602-000/00",
    "rating": 4.8,
-   "reviews": 17,
+   "reviews": 19,
    "since": "2026/11/03",
    "sinceTs": 1793638800
   },
@@ -952,8 +952,8 @@
    "price": 29900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491297/item/krgoods_55_491297_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491297-000/00",
-   "rating": 4.3,
-   "reviews": 6,
+   "rating": 4.4,
+   "reviews": 7,
    "since": "2026/11/03",
    "sinceTs": 1793638800
   }
@@ -968,7 +968,7 @@
    "end": 1793898000,
    "firstSeen": "2026-10-31T09:35:45+09:00",
    "maxCount": 16,
-   "lastSeen": "2026-11-04T17:59:00+09:00"
+   "lastSeen": "2026-11-04T20:20:39+09:00"
   }
  ]
 }
