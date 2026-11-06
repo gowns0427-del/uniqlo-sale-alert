@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-06T16:16:17+09:00",
+ "updatedAt": "2026-11-06T17:59:01+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 32,
-  "discountCount": 331,
+  "discountCount": 337,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 331
+   "count": 337
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 40
+   "count": 42
   },
   {
    "code": "salesStart",
@@ -50,17 +50,17 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 368
+   "count": 374
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 241
+   "count": 244
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 275
+   "count": 276
   }
  ],
  "periods": [
@@ -1086,7 +1086,7 @@
    "name": "GU컬러캔버스스니커즈",
    "gender": "UNISEX",
    "price": 12900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491808/item/krgoods_45_491808_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491808/item/krgoods_55_491808_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491808-000/00",
    "rating": 4.3,
    "reviews": 3,
@@ -1128,7 +1128,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-06T16:16:17+09:00"
+   "lastSeen": "2026-11-06T17:59:01+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
