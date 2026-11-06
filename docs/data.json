@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-06T17:59:01+09:00",
+ "updatedAt": "2026-11-06T19:04:47+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 32,
-  "discountCount": 337,
+  "discountCount": 334,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 337
+   "count": 334
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 42
+   "count": 41
   },
   {
    "code": "salesStart",
@@ -50,7 +50,7 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 374
+   "count": 373
   },
   {
    "code": "extraLargeStoreOnly",
@@ -466,18 +466,6 @@
    "url": "https://www.uniqlo.com/kr/ko/products/E493045-000/00",
    "rating": 0,
    "reviews": 0,
-   "since": "2026/11/03",
-   "sinceTs": 1793638800
-  },
-  {
-   "id": "E493044-000",
-   "name": "NY POP ART UT(그래픽T)Basquiat",
-   "gender": "MEN",
-   "price": 9900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/493044/item/krgoods_08_493044_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E493044-000/00",
-   "rating": 4.7,
-   "reviews": 4,
    "since": "2026/11/03",
    "sinceTs": 1793638800
   },
@@ -1116,6 +1104,18 @@
    "reviews": 8,
    "since": "2026/11/03",
    "sinceTs": 1793638800
+  },
+  {
+   "id": "E491297-000",
+   "name": "코튼셔츠(스트라이프)",
+   "gender": "WOMEN",
+   "price": 29900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491297/item/krgoods_55_491297_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E491297-000/00",
+   "rating": 4.5,
+   "reviews": 8,
+   "since": "2026/11/03",
+   "sinceTs": 1793638800
   }
  ],
  "history": [
@@ -1128,7 +1128,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-06T17:59:01+09:00"
+   "lastSeen": "2026-11-06T19:04:47+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
