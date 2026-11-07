@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-08T04:44:53+09:00",
+ "updatedAt": "2026-11-08T05:41:37+09:00",
  "bigSaleThreshold": 80,
  "status": {
-  "limitedOfferCount": 31,
-  "discountCount": 369,
+  "limitedOfferCount": 32,
+  "discountCount": 368,
   "bigSale": false
  },
  "flagCounts": [
@@ -15,12 +15,12 @@
   {
    "code": "limitedOffer",
    "name": "기간한정가격",
-   "count": 31
+   "count": 32
   },
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 369
+   "count": 368
   },
   {
    "code": "colorSizeLimitedPrice",
@@ -50,12 +50,12 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 380
+   "count": 379
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 252
+   "count": 251
   },
   {
    "code": "unisex",
@@ -233,6 +233,16 @@
      "reviews": 215
     },
     {
+     "id": "E479816-000",
+     "name": "스트레이트진",
+     "gender": "MEN",
+     "price": 49900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/479816/item/krgoods_68_479816_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E479816-000/00",
+     "rating": 4.8,
+     "reviews": 727
+    },
+    {
      "id": "E477345-000",
      "name": "저지배럴레그팬츠(다리길이77cm·긴기장)",
      "gender": "UNISEX",
@@ -383,7 +393,7 @@
      "reviews": 0
     }
    ],
-   "count": 31
+   "count": 32
   }
  ],
  "discount": [
@@ -1118,7 +1128,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-08T04:44:53+09:00"
+   "lastSeen": "2026-11-08T05:41:37+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
