@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-07T21:52:10+09:00",
+ "updatedAt": "2026-11-07T22:53:06+09:00",
  "bigSaleThreshold": 80,
  "status": {
-  "limitedOfferCount": 31,
-  "discountCount": 343,
+  "limitedOfferCount": 30,
+  "discountCount": 360,
   "bigSale": false
  },
  "flagCounts": [
@@ -15,22 +15,22 @@
   {
    "code": "limitedOffer",
    "name": "기간한정가격",
-   "count": 31
+   "count": 30
   },
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 343
+   "count": 360
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 42
+   "count": 44
   },
   {
    "code": "salesStart",
    "name": "NEW",
-   "count": 16
+   "count": 18
   },
   {
    "code": "newSKU",
@@ -45,12 +45,12 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 198
+   "count": 207
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 366
+   "count": 378
   },
   {
    "code": "extraLargeStoreOnly",
@@ -60,7 +60,7 @@
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 274
+   "count": 279
   }
  ],
  "periods": [
@@ -201,16 +201,6 @@
      "url": "https://www.uniqlo.com/kr/ko/products/E486080-000/00",
      "rating": 4.9,
      "reviews": 18
-    },
-    {
-     "id": "E485737-000",
-     "name": "스트레이트진(셀비지)",
-     "gender": "MEN",
-     "price": 49900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485737/item/krgoods_69_485737_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E485737-000/00",
-     "rating": 4.8,
-     "reviews": 199
     },
     {
      "id": "E485310-000",
@@ -383,7 +373,7 @@
      "reviews": 0
     }
    ],
-   "count": 31
+   "count": 30
   }
  ],
  "discount": [
@@ -1118,7 +1108,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-07T21:52:10+09:00"
+   "lastSeen": "2026-11-07T22:53:06+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
