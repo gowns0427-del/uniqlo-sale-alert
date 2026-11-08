@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-09T07:41:12+09:00",
+ "updatedAt": "2026-11-09T08:39:54+09:00",
  "bigSaleThreshold": 80,
  "status": {
-  "limitedOfferCount": 30,
-  "discountCount": 315,
+  "limitedOfferCount": 29,
+  "discountCount": 314,
   "bigSale": false
  },
  "flagCounts": [
@@ -15,12 +15,12 @@
   {
    "code": "limitedOffer",
    "name": "기간한정가격",
-   "count": 30
+   "count": 29
   },
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 315
+   "count": 314
   },
   {
    "code": "colorSizeLimitedPrice",
@@ -30,7 +30,7 @@
   {
    "code": "salesStart",
    "name": "NEW",
-   "count": 17
+   "count": 16
   },
   {
    "code": "newSKU",
@@ -40,17 +40,17 @@
   {
    "code": "comingSoon",
    "name": "판매예정",
-   "count": 144
+   "count": 143
   },
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 197
+   "count": 196
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 363
+   "count": 362
   },
   {
    "code": "extraLargeStoreOnly",
@@ -60,7 +60,7 @@
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 274
+   "count": 273
   }
  ],
  "periods": [
@@ -361,19 +361,9 @@
      "url": "https://www.uniqlo.com/kr/ko/products/E461001-000/00",
      "rating": 4.8,
      "reviews": 193
-    },
-    {
-     "id": "E487405-000",
-     "name": "PUFFTECH컴팩트베스트",
-     "gender": "WOMEN",
-     "price": 39900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487405/item/krgoods_05_487405_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E487405-000/00",
-     "rating": 0,
-     "reviews": 0
     }
    ],
-   "count": 30
+   "count": 29
   }
  ],
  "discount": [
@@ -1108,7 +1098,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-09T07:41:12+09:00"
+   "lastSeen": "2026-11-09T08:39:54+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
