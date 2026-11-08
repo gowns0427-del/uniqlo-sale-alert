@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T06:39:54+09:00",
+ "updatedAt": "2026-11-09T07:41:12+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 30,
@@ -30,7 +30,7 @@
   {
    "code": "salesStart",
    "name": "NEW",
-   "count": 16
+   "count": 17
   },
   {
    "code": "newSKU",
@@ -45,7 +45,7 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 196
+   "count": 197
   },
   {
    "code": "limitedStore",
@@ -60,7 +60,7 @@
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 273
+   "count": 274
   }
  ],
  "periods": [
@@ -150,7 +150,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488302/item/krgoods_38_488302_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E488302-000/00",
      "rating": 4.9,
-     "reviews": 43
+     "reviews": 44
     },
     {
      "id": "E487206-000",
@@ -320,7 +320,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/469742/item/krgoods_53_469742_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E469742-000/00",
      "rating": 4.8,
-     "reviews": 330
+     "reviews": 322
     },
     {
      "id": "E469740-000",
@@ -1108,7 +1108,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-09T06:39:54+09:00"
+   "lastSeen": "2026-11-09T07:41:12+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
