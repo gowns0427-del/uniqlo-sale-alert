@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-08T11:08:14+09:00",
+ "updatedAt": "2026-11-08T12:55:06+09:00",
  "bigSaleThreshold": 80,
  "status": {
-  "limitedOfferCount": 32,
-  "discountCount": 347,
+  "limitedOfferCount": 31,
+  "discountCount": 336,
   "bigSale": false
  },
  "flagCounts": [
@@ -15,17 +15,17 @@
   {
    "code": "limitedOffer",
    "name": "기간한정가격",
-   "count": 32
+   "count": 31
   },
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 347
+   "count": 336
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 43
+   "count": 41
   },
   {
    "code": "salesStart",
@@ -50,17 +50,17 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 373
+   "count": 367
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 244
+   "count": 242
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 277
+   "count": 275
   }
  ],
  "periods": [
@@ -233,16 +233,6 @@
      "reviews": 215
     },
     {
-     "id": "E479816-000",
-     "name": "스트레이트진",
-     "gender": "MEN",
-     "price": 49900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/479816/item/krgoods_68_479816_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E479816-000/00",
-     "rating": 4.8,
-     "reviews": 727
-    },
-    {
      "id": "E477345-000",
      "name": "저지배럴레그팬츠(다리길이77cm·긴기장)",
      "gender": "UNISEX",
@@ -393,7 +383,7 @@
      "reviews": 0
     }
    ],
-   "count": 32
+   "count": 31
   }
  ],
  "discount": [
@@ -1086,7 +1076,7 @@
    "name": "포인텔가디건(긴팔)하트",
    "gender": "WOMEN",
    "price": 9900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491602/item/krgoods_01_491602_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491602/item/krgoods_69_491602_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491602-000/00",
    "rating": 4.9,
    "reviews": 21,
@@ -1128,7 +1118,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-08T11:08:14+09:00"
+   "lastSeen": "2026-11-08T12:55:06+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
