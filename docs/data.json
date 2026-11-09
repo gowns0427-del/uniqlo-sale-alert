@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T08:39:54+09:00",
+ "updatedAt": "2026-11-09T10:08:27+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 29,
@@ -30,7 +30,7 @@
   {
    "code": "salesStart",
    "name": "NEW",
-   "count": 16
+   "count": 10
   },
   {
    "code": "newSKU",
@@ -45,7 +45,7 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 196
+   "count": 195
   },
   {
    "code": "limitedStore",
@@ -1098,7 +1098,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-09T08:39:54+09:00"
+   "lastSeen": "2026-11-09T10:08:27+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
