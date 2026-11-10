@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-11T07:46:56+09:00",
+ "updatedAt": "2026-11-11T08:39:46+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 29,
-  "discountCount": 366,
+  "discountCount": 358,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 366
+   "count": 358
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 46
+   "count": 44
   },
   {
    "code": "salesStart",
@@ -55,12 +55,12 @@
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 245
+   "count": 242
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 276
+   "count": 275
   }
  ],
  "periods": [
@@ -576,7 +576,7 @@
    "name": "GU퍼피터치니트크루넥가디건",
    "gender": "WOMEN",
    "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491868/item/krgoods_53_491868_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491868/item/krgoods_38_491868_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491868-000/00",
    "rating": 4.8,
    "reviews": 11,
@@ -788,18 +788,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E489061-000",
-   "name": "스트라이프폴로셔츠B",
-   "gender": "WOMEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489061/item/krgoods_38_489061_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489061-000/00",
-   "rating": 4.8,
-   "reviews": 25,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E488939-000",
    "name": "KIDS드라이스웨트풀집파카(컬러블록)",
    "gender": "KIDS",
@@ -1004,18 +992,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E488202-000",
-   "name": "코듀로이배럴레그팬츠",
-   "gender": "WOMEN",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488202/item/krgoods_30_488202_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488202-000/00",
-   "rating": 4.8,
-   "reviews": 7,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E488200-000",
    "name": "코듀로이쇼트재킷",
    "gender": "WOMEN",
@@ -1086,6 +1062,30 @@
    "reviews": 3,
    "since": "2026/11/10",
    "sinceTs": 1794243600
+  },
+  {
+   "id": "E488009-000",
+   "name": "랩스코츠",
+   "gender": "WOMEN",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488009/item/krgoods_04_488009_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488009-000/00",
+   "rating": 5,
+   "reviews": 3,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E488008-000",
+   "name": "플리츠스코츠",
+   "gender": "WOMEN",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488008/item/krgoods_01_488008_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488008-000/01",
+   "rating": 4.5,
+   "reviews": 15,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1098,7 +1098,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-11T07:46:56+09:00"
+   "lastSeen": "2026-11-11T08:39:46+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
