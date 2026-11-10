@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-10T19:55:31+09:00",
+ "updatedAt": "2026-11-10T20:53:17+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 29,
-  "discountCount": 350,
+  "discountCount": 341,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 350
+   "count": 341
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 45
+   "count": 43
   },
   {
    "code": "salesStart",
@@ -50,17 +50,17 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 367
+   "count": 364
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 237
+   "count": 236
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 271
+   "count": 269
   }
  ],
  "periods": [
@@ -890,20 +890,8 @@
    "price": 59900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488723/item/krgoods_30_488723_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488723-000/00",
-   "rating": 5,
-   "reviews": 4,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E488693-000",
-   "name": "코튼스탠드칼라원피스",
-   "gender": "WOMEN",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488693/item/krgoods_69_488693_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488693-000/00",
-   "rating": 5,
-   "reviews": 3,
+   "rating": 4.5,
+   "reviews": 5,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -924,7 +912,7 @@
    "name": "모크넥T(긴팔)",
    "gender": "UNISEX",
    "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488605/item/krgoods_35_488605_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488605/item/krgoods_08_488605_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488605-000/00",
    "rating": 5,
    "reviews": 3,
@@ -1086,6 +1074,18 @@
    "reviews": 3,
    "since": "2026/11/10",
    "sinceTs": 1794243600
+  },
+  {
+   "id": "E488008-000",
+   "name": "플리츠스코츠",
+   "gender": "WOMEN",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488008/item/krgoods_01_488008_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488008-000/01",
+   "rating": 4.5,
+   "reviews": 15,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1098,7 +1098,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-10T19:55:31+09:00"
+   "lastSeen": "2026-11-10T20:53:17+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
