@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-10T20:53:17+09:00",
+ "updatedAt": "2026-11-10T22:03:30+09:00",
  "bigSaleThreshold": 80,
  "status": {
-  "limitedOfferCount": 29,
-  "discountCount": 341,
+  "limitedOfferCount": 30,
+  "discountCount": 352,
   "bigSale": false
  },
  "flagCounts": [
@@ -15,17 +15,17 @@
   {
    "code": "limitedOffer",
    "name": "기간한정가격",
-   "count": 29
+   "count": 30
   },
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 341
+   "count": 352
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 43
+   "count": 42
   },
   {
    "code": "salesStart",
@@ -45,22 +45,22 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 190
+   "count": 192
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 364
+   "count": 366
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 236
+   "count": 237
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 269
+   "count": 272
   }
  ],
  "periods": [
@@ -223,6 +223,16 @@
      "reviews": 216
     },
     {
+     "id": "E479816-000",
+     "name": "스트레이트진",
+     "gender": "MEN",
+     "price": 49900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/479816/item/krgoods_68_479816_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E479816-000/00",
+     "rating": 4.8,
+     "reviews": 727
+    },
+    {
      "id": "E477345-000",
      "name": "저지배럴레그팬츠(다리길이77cm·긴기장)",
      "gender": "UNISEX",
@@ -363,7 +373,7 @@
      "reviews": 196
     }
    ],
-   "count": 29
+   "count": 30
   }
  ],
  "discount": [
@@ -788,6 +798,18 @@
    "sinceTs": 1794243600
   },
   {
+   "id": "E489398-000",
+   "name": "립V넥가디건(스트라이프)",
+   "gender": "WOMEN",
+   "price": 7900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489398/item/krgoods_69_489398_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E489398-000/00",
+   "rating": 5,
+   "reviews": 14,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
    "id": "E489190-000",
    "name": "턱큐롯",
    "gender": "WOMEN",
@@ -912,7 +934,7 @@
    "name": "모크넥T(긴팔)",
    "gender": "UNISEX",
    "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488605/item/krgoods_08_488605_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488605/item/krgoods_35_488605_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488605-000/00",
    "rating": 5,
    "reviews": 3,
@@ -1074,18 +1096,6 @@
    "reviews": 3,
    "since": "2026/11/10",
    "sinceTs": 1794243600
-  },
-  {
-   "id": "E488008-000",
-   "name": "플리츠스코츠",
-   "gender": "WOMEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488008/item/krgoods_01_488008_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488008-000/01",
-   "rating": 4.5,
-   "reviews": 15,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1098,7 +1108,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-10T20:53:17+09:00"
+   "lastSeen": "2026-11-10T22:03:30+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
