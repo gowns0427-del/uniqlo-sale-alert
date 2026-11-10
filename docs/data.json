@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T14:56:42+09:00",
+ "updatedAt": "2026-11-10T16:10:18+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 29,
@@ -1098,7 +1098,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-10T14:56:42+09:00"
+   "lastSeen": "2026-11-10T16:10:18+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
