@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-11T01:55:55+09:00",
+ "updatedAt": "2026-11-11T02:50:52+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 30,
-  "discountCount": 349,
+  "discountCount": 361,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 349
+   "count": 361
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 43
+   "count": 46
   },
   {
    "code": "salesStart",
@@ -45,22 +45,22 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 192
+   "count": 196
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 365
+   "count": 370
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 237
+   "count": 244
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 270
+   "count": 271
   }
  ],
  "periods": [
@@ -434,6 +434,18 @@
    "url": "https://www.uniqlo.com/kr/ko/products/E492855-000/00",
    "rating": 0,
    "reviews": 0,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E492365-000",
+   "name": "배기스트레이트진",
+   "gender": "MEN",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492365/item/krgoods_68_492365_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E492365-000/00",
+   "rating": 4.8,
+   "reviews": 6,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -894,6 +906,18 @@
    "sinceTs": 1794243600
   },
   {
+   "id": "E488693-000",
+   "name": "코튼스탠드칼라원피스",
+   "gender": "WOMEN",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488693/item/krgoods_69_488693_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488693-000/00",
+   "rating": 5,
+   "reviews": 3,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
    "id": "E488630-000",
    "name": "EZY배럴진",
    "gender": "MEN",
@@ -990,6 +1014,18 @@
    "sinceTs": 1794243600
   },
   {
+   "id": "E488202-000",
+   "name": "코듀로이배럴레그팬츠",
+   "gender": "WOMEN",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488202/item/krgoods_30_488202_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488202-000/00",
+   "rating": 5,
+   "reviews": 6,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
    "id": "E488200-000",
    "name": "코듀로이쇼트재킷",
    "gender": "WOMEN",
@@ -1060,42 +1096,6 @@
    "reviews": 3,
    "since": "2026/11/10",
    "sinceTs": 1794243600
-  },
-  {
-   "id": "E488009-000",
-   "name": "랩스코츠",
-   "gender": "WOMEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488009/item/krgoods_04_488009_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488009-000/00",
-   "rating": 5,
-   "reviews": 3,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E488008-000",
-   "name": "플리츠스코츠",
-   "gender": "WOMEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488008/item/krgoods_01_488008_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488008-000/01",
-   "rating": 4.5,
-   "reviews": 15,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E487950-000",
-   "name": "BN살로페트",
-   "gender": "BABY",
-   "price": 12900,
-   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/487950/item/goods_66_487950_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E487950-000/00",
-   "rating": 5,
-   "reviews": 4,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1108,7 +1108,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-11T01:55:55+09:00"
+   "lastSeen": "2026-11-11T02:50:52+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
