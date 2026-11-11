@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-12T05:01:52+09:00",
+ "updatedAt": "2026-11-12T06:38:28+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 29,
-  "discountCount": 365,
+  "discountCount": 359,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 365
+   "count": 359
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 44
+   "count": 43
   },
   {
    "code": "salesStart",
@@ -50,12 +50,12 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 379
+   "count": 378
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 245
+   "count": 243
   },
   {
    "code": "unisex",
@@ -824,18 +824,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E489399-000",
-   "name": "립V넥가디건(플라워)",
-   "gender": "WOMEN",
-   "price": 7900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489399/item/krgoods_69_489399_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489399-000/00",
-   "rating": 4.8,
-   "reviews": 18,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E489190-000",
    "name": "턱큐롯",
    "gender": "WOMEN",
@@ -1040,18 +1028,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E488459-000",
-   "name": "후드롱코트(오버사이즈핏)",
-   "gender": "UNISEX",
-   "price": 79900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488459/item/krgoods_33_488459_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488459-000/00",
-   "rating": 4.7,
-   "reviews": 12,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E488441-000",
    "name": "울캐시미어스톨",
    "gender": "UNISEX",
@@ -1086,6 +1062,30 @@
    "reviews": 6,
    "since": "2026/11/10",
    "sinceTs": 1794243600
+  },
+  {
+   "id": "E488202-000",
+   "name": "코듀로이배럴레그팬츠",
+   "gender": "WOMEN",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488202/item/krgoods_30_488202_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488202-000/00",
+   "rating": 4.8,
+   "reviews": 7,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E488200-000",
+   "name": "코듀로이쇼트재킷",
+   "gender": "WOMEN",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488200/item/krgoods_08_488200_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488200-000/00",
+   "rating": 5,
+   "reviews": 2,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1098,7 +1098,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-12T05:01:52+09:00"
+   "lastSeen": "2026-11-12T06:38:28+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
