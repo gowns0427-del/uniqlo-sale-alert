@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-12T07:54:59+09:00",
+ "updatedAt": "2026-11-12T08:51:36+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 29,
-  "discountCount": 357,
+  "discountCount": 349,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,7 +20,7 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 357
+   "count": 349
   },
   {
    "code": "colorSizeLimitedPrice",
@@ -45,22 +45,22 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 200
+   "count": 196
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 375
+   "count": 371
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 242
+   "count": 238
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 273
+   "count": 271
   }
  ],
  "periods": [
@@ -207,7 +207,7 @@
      "name": "수플레얀크루넥스웨터",
      "gender": "WOMEN",
      "price": 29900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485310/item/krgoods_60_485310_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485310/item/krgoods_10_485310_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E485310-000/00",
      "rating": 4.7,
      "reviews": 66
@@ -372,7 +372,7 @@
    "name": "브러시드코튼셔츠",
    "gender": "UNISEX",
    "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486610/item/krgoods_09_486610_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486610/item/krgoods_07_486610_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E486610-000/00",
    "rating": 4.9,
    "reviews": 41,
@@ -764,18 +764,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E491287-000",
-   "name": "KIDS Mario Kart World스웨트후디B",
-   "gender": "KIDS",
-   "price": 12900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491287/item/krgoods_02_491287_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E491287-000/00",
-   "rating": 5,
-   "reviews": 3,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E491116-000",
    "name": "스트레이트진(데미지)",
    "gender": "WOMEN",
@@ -856,18 +844,6 @@
    "url": "https://www.uniqlo.com/kr/ko/products/E489190-000/00",
    "rating": 5,
    "reviews": 22,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E489061-000",
-   "name": "스트라이프폴로셔츠B",
-   "gender": "WOMEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489061/item/krgoods_38_489061_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489061-000/00",
-   "rating": 4.8,
-   "reviews": 25,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -1076,14 +1052,38 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E488202-000",
-   "name": "코듀로이배럴레그팬츠",
+   "id": "E488200-000",
+   "name": "코듀로이쇼트재킷",
    "gender": "WOMEN",
    "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488202/item/krgoods_30_488202_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488202-000/00",
-   "rating": 4.8,
-   "reviews": 7,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488200/item/krgoods_08_488200_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488200-000/00",
+   "rating": 5,
+   "reviews": 2,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E488167-000",
+   "name": "립와이드이지팬츠(스트라이프)",
+   "gender": "WOMEN",
+   "price": 29900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488167/item/krgoods_16_488167_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488167-000/00",
+   "rating": 5,
+   "reviews": 6,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E488163-000",
+   "name": "KIDS드라이스웨트와이드팬츠",
+   "gender": "KIDS",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488163/item/krgoods_38_488163_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488163-000/01",
+   "rating": 5,
+   "reviews": 19,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   }
@@ -1098,7 +1098,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-12T07:54:59+09:00"
+   "lastSeen": "2026-11-12T08:51:36+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
