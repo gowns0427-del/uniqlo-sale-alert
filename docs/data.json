@@ -1,16 +1,16 @@
 {
- "updatedAt": "2026-11-11T23:56:40+09:00",
+ "updatedAt": "2026-11-12T00:54:59+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 29,
-  "discountCount": 347,
+  "discountCount": 352,
   "bigSale": false
  },
  "flagCounts": [
   {
    "code": "multibuy",
    "name": "세트할인",
-   "count": 82
+   "count": 81
   },
   {
    "code": "limitedOffer",
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 347
+   "count": 352
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 41
+   "count": 44
   },
   {
    "code": "salesStart",
@@ -45,12 +45,12 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 193
+   "count": 194
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 371
+   "count": 372
   },
   {
    "code": "extraLargeStoreOnly",
@@ -60,7 +60,7 @@
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 269
+   "count": 270
   }
  ],
  "periods": [
@@ -428,6 +428,18 @@
    "sinceTs": 1794243600
   },
   {
+   "id": "E492365-000",
+   "name": "배기스트레이트진",
+   "gender": "MEN",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492365/item/krgoods_08_492365_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E492365-000/00",
+   "rating": 4.8,
+   "reviews": 6,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
    "id": "E492249-000",
    "name": "GU로우웨이스트코듀로이미니스커트",
    "gender": "WOMEN",
@@ -788,6 +800,18 @@
    "sinceTs": 1794243600
   },
   {
+   "id": "E489399-000",
+   "name": "립V넥가디건(플라워)",
+   "gender": "WOMEN",
+   "price": 7900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489399/item/krgoods_69_489399_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E489399-000/00",
+   "rating": 4.8,
+   "reviews": 18,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
    "id": "E489190-000",
    "name": "턱큐롯",
    "gender": "WOMEN",
@@ -1016,6 +1040,18 @@
    "sinceTs": 1794243600
   },
   {
+   "id": "E488202-000",
+   "name": "코듀로이배럴레그팬츠",
+   "gender": "WOMEN",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488202/item/krgoods_30_488202_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488202-000/00",
+   "rating": 4.8,
+   "reviews": 7,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
    "id": "E488200-000",
    "name": "코듀로이쇼트재킷",
    "gender": "WOMEN",
@@ -1050,42 +1086,6 @@
    "reviews": 6,
    "since": "2026/11/10",
    "sinceTs": 1794243600
-  },
-  {
-   "id": "E488163-000",
-   "name": "KIDS드라이스웨트와이드팬츠",
-   "gender": "KIDS",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488163/item/krgoods_38_488163_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488163-000/01",
-   "rating": 5,
-   "reviews": 19,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E488084-000",
-   "name": "턱치노팬츠",
-   "gender": "WOMEN",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488084/item/krgoods_09_488084_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488084-000/00",
-   "rating": 4,
-   "reviews": 3,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E488083-000",
-   "name": "플리츠스커트",
-   "gender": "WOMEN",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488083/item/krgoods_09_488083_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488083-000/00",
-   "rating": 5,
-   "reviews": 3,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1098,7 +1098,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-11T23:56:40+09:00"
+   "lastSeen": "2026-11-12T00:54:59+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
