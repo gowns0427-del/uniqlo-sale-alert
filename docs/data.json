@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-12T06:38:28+09:00",
+ "updatedAt": "2026-11-12T07:54:59+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 29,
-  "discountCount": 359,
+  "discountCount": 357,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 359
+   "count": 357
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 43
+   "count": 41
   },
   {
    "code": "salesStart",
@@ -45,22 +45,22 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 201
+   "count": 200
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 378
+   "count": 375
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 243
+   "count": 242
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 275
+   "count": 273
   }
  ],
  "periods": [
@@ -230,7 +230,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/477345/item/krgoods_56_477345_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E477345-000/00",
      "rating": 4.8,
-     "reviews": 341
+     "reviews": 342
     },
     {
      "id": "E476209-000",
@@ -250,7 +250,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/475344/item/krgoods_30_475344_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E475344-000/00",
      "rating": 4.8,
-     "reviews": 4262
+     "reviews": 4257
     },
     {
      "id": "E470118-001",
@@ -270,7 +270,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470118/item/goods_01_470118_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E470118-000/00",
      "rating": 4.8,
-     "reviews": 645
+     "reviews": 643
     },
     {
      "id": "E470061-000",
@@ -300,7 +300,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/469863/item/krgoods_01_469863_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E469863-000/00",
      "rating": 4.7,
-     "reviews": 304
+     "reviews": 297
     },
     {
      "id": "E469836-000",
@@ -310,7 +310,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469836/item/goods_09_469836_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E469836-000/00",
      "rating": 4.8,
-     "reviews": 406
+     "reviews": 407
     },
     {
      "id": "E469742-000",
@@ -320,7 +320,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/469742/item/krgoods_53_469742_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E469742-000/00",
      "rating": 4.8,
-     "reviews": 341
+     "reviews": 343
     },
     {
      "id": "E469740-000",
@@ -367,6 +367,42 @@
   }
  ],
  "discount": [
+  {
+   "id": "E486610-000",
+   "name": "브러시드코튼셔츠",
+   "gender": "UNISEX",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486610/item/krgoods_09_486610_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E486610-000/00",
+   "rating": 4.9,
+   "reviews": 41,
+   "since": "2026/11/12",
+   "sinceTs": 1794419838
+  },
+  {
+   "id": "E489406-000",
+   "name": "플란넬박시셔츠(체크)A",
+   "gender": "UNISEX",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489406/item/krgoods_62_489406_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E489406-000/00",
+   "rating": 5,
+   "reviews": 9,
+   "since": "2026/11/12",
+   "sinceTs": 1794419819
+  },
+  {
+   "id": "E488559-000",
+   "name": "플란넬박시셔츠",
+   "gender": "UNISEX",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488559/item/krgoods_30_488559_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488559-000/00",
+   "rating": 5,
+   "reviews": 2,
+   "since": "2026/11/12",
+   "sinceTs": 1794419819
+  },
   {
    "id": "E494712-000",
    "name": "GU스웨트후디 by rokh",
@@ -759,7 +795,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491087/item/krgoods_09_491087_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491087-000/00",
    "rating": 4.8,
-   "reviews": 39,
+   "reviews": 40,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -800,18 +836,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E489425-000",
-   "name": "코튼스탠드칼라셔츠(긴팔)",
-   "gender": "WOMEN",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489425/item/krgoods_01_489425_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489425-000/00",
-   "rating": 5,
-   "reviews": 7,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E489415-000",
    "name": "스마트턱와이드팬츠(체크)",
    "gender": "WOMEN",
@@ -844,18 +868,6 @@
    "url": "https://www.uniqlo.com/kr/ko/products/E489061-000/00",
    "rating": 4.8,
    "reviews": 25,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E489060-000",
-   "name": "스트라이프폴로셔츠(긴팔)A",
-   "gender": "WOMEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489060/item/krgoods_01_489060_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489060-000/00",
-   "rating": 4.8,
-   "reviews": 17,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -1074,18 +1086,6 @@
    "reviews": 7,
    "since": "2026/11/10",
    "sinceTs": 1794243600
-  },
-  {
-   "id": "E488200-000",
-   "name": "코듀로이쇼트재킷",
-   "gender": "WOMEN",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488200/item/krgoods_08_488200_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488200-000/00",
-   "rating": 5,
-   "reviews": 2,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1098,7 +1098,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-12T06:38:28+09:00"
+   "lastSeen": "2026-11-12T07:54:59+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
