@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-13T07:50:04+09:00",
+ "updatedAt": "2026-11-13T08:46:39+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 341,
+  "discountCount": 338,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 341
+   "count": 338
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 35
+   "count": 36
   },
   {
    "code": "salesStart",
@@ -45,12 +45,12 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 186
+   "count": 187
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 368
+   "count": 365
   },
   {
    "code": "extraLargeStoreOnly",
@@ -486,7 +486,7 @@
    "name": "GU코듀로이슈퍼와이드팬츠",
    "gender": "MEN",
    "price": 29900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491897/item/krgoods_38_491897_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491897/item/krgoods_09_491897_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491897-000/00",
    "rating": 4,
    "reviews": 1,
@@ -674,18 +674,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E489552-000",
-   "name": "Monchhichi UT(그래픽T)F",
-   "gender": "WOMEN",
-   "price": 7900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489552/item/krgoods_60_489552_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489552-000/00",
-   "rating": 5,
-   "reviews": 3,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E489551-000",
    "name": "Monchhichi UT(그래픽T)E",
    "gender": "WOMEN",
@@ -730,18 +718,6 @@
    "url": "https://www.uniqlo.com/kr/ko/products/E489190-000/00",
    "rating": 5,
    "reviews": 23,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E489061-000",
-   "name": "스트라이프폴로셔츠B",
-   "gender": "WOMEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489061/item/krgoods_38_489061_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489061-000/00",
-   "rating": 4.8,
-   "reviews": 25,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -938,18 +914,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E488202-000",
-   "name": "코듀로이배럴레그팬츠",
-   "gender": "WOMEN",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488202/item/krgoods_30_488202_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488202-000/00",
-   "rating": 4.8,
-   "reviews": 7,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E488200-000",
    "name": "코듀로이쇼트재킷",
    "gender": "WOMEN",
@@ -996,6 +960,42 @@
    "reviews": 3,
    "since": "2026/11/10",
    "sinceTs": 1794243600
+  },
+  {
+   "id": "E488083-000",
+   "name": "플리츠스커트",
+   "gender": "WOMEN",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488083/item/krgoods_09_488083_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488083-000/00",
+   "rating": 5,
+   "reviews": 3,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E488009-001",
+   "name": "랩스코츠",
+   "gender": "WOMEN",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488009001/item/krgoods_37_488009001_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488009-001/00",
+   "rating": 5,
+   "reviews": 3,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E488009-000",
+   "name": "랩스코츠",
+   "gender": "WOMEN",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488009/item/krgoods_04_488009_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488009-000/00",
+   "rating": 5,
+   "reviews": 3,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-13T07:50:04+09:00"
+   "lastSeen": "2026-11-13T08:46:39+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
