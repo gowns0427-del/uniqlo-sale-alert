@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-13T04:57:22+09:00",
+ "updatedAt": "2026-11-13T05:53:02+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 352,
+  "discountCount": 347,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 352
+   "count": 347
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 38
+   "count": 37
   },
   {
    "code": "salesStart",
@@ -50,12 +50,12 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 371
+   "count": 370
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 244
+   "count": 242
   },
   {
    "code": "unisex",
@@ -370,18 +370,6 @@
    "url": "https://www.uniqlo.com/kr/ko/products/E492855-000/00",
    "rating": 0,
    "reviews": 0,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E492365-000",
-   "name": "배기스트레이트진",
-   "gender": "MEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492365/item/krgoods_65_492365_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E492365-000/00",
-   "rating": 4.8,
-   "reviews": 6,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -734,18 +722,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E489398-000",
-   "name": "립V넥가디건(스트라이프)",
-   "gender": "WOMEN",
-   "price": 7900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489398/item/krgoods_69_489398_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489398-000/00",
-   "rating": 5,
-   "reviews": 14,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E489190-000",
    "name": "턱큐롯",
    "gender": "WOMEN",
@@ -766,18 +742,6 @@
    "url": "https://www.uniqlo.com/kr/ko/products/E489061-000/00",
    "rating": 4.8,
    "reviews": 25,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E489060-000",
-   "name": "스트라이프폴로셔츠(긴팔)A",
-   "gender": "WOMEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489060/item/krgoods_01_489060_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489060-000/00",
-   "rating": 4.8,
-   "reviews": 18,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -996,6 +960,42 @@
    "reviews": 2,
    "since": "2026/11/10",
    "sinceTs": 1794243600
+  },
+  {
+   "id": "E488167-000",
+   "name": "립와이드이지팬츠(스트라이프)",
+   "gender": "WOMEN",
+   "price": 29900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488167/item/krgoods_16_488167_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488167-000/00",
+   "rating": 5,
+   "reviews": 6,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E488163-000",
+   "name": "KIDS드라이스웨트와이드팬츠",
+   "gender": "KIDS",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488163/item/krgoods_38_488163_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488163-000/01",
+   "rating": 5,
+   "reviews": 19,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E488084-000",
+   "name": "턱치노팬츠",
+   "gender": "WOMEN",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488084/item/krgoods_09_488084_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488084-000/00",
+   "rating": 4,
+   "reviews": 3,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-13T04:57:22+09:00"
+   "lastSeen": "2026-11-13T05:53:02+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
