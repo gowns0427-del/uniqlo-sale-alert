@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-13T02:06:25+09:00",
+ "updatedAt": "2026-11-13T02:58:49+09:00",
  "bigSaleThreshold": 80,
  "status": {
-  "limitedOfferCount": 29,
-  "discountCount": 337,
+  "limitedOfferCount": 21,
+  "discountCount": 335,
   "bigSale": false
  },
  "flagCounts": [
@@ -15,17 +15,17 @@
   {
    "code": "limitedOffer",
    "name": "기간한정가격",
-   "count": 29
+   "count": 21
   },
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 337
+   "count": 335
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 35
+   "count": 36
   },
   {
    "code": "salesStart",
@@ -50,12 +50,12 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 365
+   "count": 364
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 239
+   "count": 238
   },
   {
    "code": "unisex",
@@ -65,316 +65,225 @@
  ],
  "periods": [
   {
-   "key": "limitedOffer:1793898000:1794502800",
+   "key": "limitedOffer:1794502800:1795107600",
    "label": "기간한정가격",
-   "startDate": "2026/11/06",
-   "endDate": "2026/11/12",
-   "start": 1793898000,
-   "end": 1794502800,
+   "startDate": "2026/11/13",
+   "endDate": "2026/11/19",
+   "start": 1794502800,
+   "end": 1795107600,
    "products": [
     {
-     "id": "E492538-000",
-     "name": "스트레이트진(셀비지)",
-     "gender": "MEN",
-     "price": 59900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492538/item/krgoods_69_492538_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E492538-000/00",
-     "rating": 4.9,
-     "reviews": 28
-    },
-    {
-     "id": "E491116-000",
-     "name": "스트레이트진(데미지)",
-     "gender": "WOMEN",
-     "price": 59900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491116/item/krgoods_66_491116_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E491116-000/00",
-     "rating": 4.8,
-     "reviews": 25
-    },
-    {
-     "id": "E489367-000",
-     "name": "스트레이트진(데미지)",
+     "id": "E494718-000",
+     "name": "GU후리스후디드오버사이즈베스트 ENGINEERED GARMENTS",
      "gender": "UNISEX",
-     "price": 59900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489367/item/krgoods_65_489367_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E489367-000/00",
-     "rating": 4.8,
-     "reviews": 56
-    },
-    {
-     "id": "E489110-000",
-     "name": "PUFFTECH파카",
-     "gender": "MEN",
-     "price": 89900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489110/item/krgoods_27_489110_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E489110-000/00",
-     "rating": 4.9,
-     "reviews": 32
-    },
-    {
-     "id": "E488795-000",
-     "name": "플란넬셔츠C",
-     "gender": "UNISEX",
-     "price": 49900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488795/item/krgoods_18_488795_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E488795-000/00",
-     "rating": 4.8,
+     "price": 39900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/494718/item/krgoods_39_494718_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E494718-000/00",
+     "rating": 5,
      "reviews": 7
     },
     {
-     "id": "E488794-000",
-     "name": "플란넬셔츠B",
+     "id": "E494717-000",
+     "name": "GU후리스유틸리티재킷 ENGINEERED GARMENTS",
      "gender": "UNISEX",
      "price": 49900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488794/item/krgoods_38_488794_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E488794-000/00",
-     "rating": 5,
-     "reviews": 12
-    },
-    {
-     "id": "E488684-000",
-     "name": "스트레이트진(셀비지)",
-     "gender": "UNISEX",
-     "price": 59900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488684/item/krgoods_69_488684_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E488684-000/00",
-     "rating": 4.6,
-     "reviews": 49
-    },
-    {
-     "id": "E488302-000",
-     "name": "보아후리스릴랙스가디건",
-     "gender": "WOMEN",
-     "price": 49900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488302/item/krgoods_38_488302_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E488302-000/00",
-     "rating": 4.9,
-     "reviews": 64
-    },
-    {
-     "id": "E487206-000",
-     "name": "스트레이트진",
-     "gender": "UNISEX",
-     "price": 59900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487206/item/krgoods_67_487206_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E487206-000/00",
-     "rating": 4.7,
-     "reviews": 86
-    },
-    {
-     "id": "E486615-000",
-     "name": "플란넬셔츠A",
-     "gender": "UNISEX",
-     "price": 49900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486615/item/krgoods_57_486615_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E486615-000/00",
-     "rating": 5,
-     "reviews": 9
-    },
-    {
-     "id": "E486471-000",
-     "name": "코듀로이이지앵클팬츠",
-     "gender": "MEN",
-     "price": 39900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486471/item/krgoods_09_486471_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E486471-000/00",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/494717/item/krgoods_07_494717_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E494717-000/00",
      "rating": 4.5,
-     "reviews": 22
+     "reviews": 16
     },
     {
-     "id": "E486095-000",
-     "name": "워셔블니트팬츠(스무드)",
-     "gender": "WOMEN",
-     "price": 39900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486095/item/krgoods_03_486095_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E486095-000/00",
-     "rating": 4.8,
-     "reviews": 66
-    },
-    {
-     "id": "E486080-000",
-     "name": "수플레얀크루넥스웨터",
+     "id": "E494716-000",
+     "name": "GU후리스와이드웜팬츠 ENGINEERED GARMENTS",
      "gender": "UNISEX",
      "price": 39900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486080/item/krgoods_65_486080_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E486080-000/00",
-     "rating": 4.9,
-     "reviews": 31
-    },
-    {
-     "id": "E485310-000",
-     "name": "수플레얀크루넥스웨터",
-     "gender": "WOMEN",
-     "price": 39900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485310/item/krgoods_10_485310_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E485310-000/00",
-     "rating": 4.7,
-     "reviews": 74
-    },
-    {
-     "id": "E482279-000",
-     "name": "스트레이트진",
-     "gender": "WOMEN",
-     "price": 59900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/482279/item/krgoods_65_482279_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E482279-000/00",
-     "rating": 4.8,
-     "reviews": 216
-    },
-    {
-     "id": "E477345-000",
-     "name": "저지배럴레그팬츠(다리길이77cm·긴기장)",
-     "gender": "UNISEX",
-     "price": 49900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/477345/item/krgoods_56_477345_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E477345-000/00",
-     "rating": 4.8,
-     "reviews": 344
-    },
-    {
-     "id": "E476209-000",
-     "name": "스트레이트진",
-     "gender": "WOMEN",
-     "price": 59900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/476209/item/krgoods_69_476209_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E476209-000/00",
-     "rating": 4.7,
-     "reviews": 452
-    },
-    {
-     "id": "E475344-000",
-     "name": "저지배럴레그팬츠(다리길이70~72cm)",
-     "gender": "WOMEN",
-     "price": 49900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/475344/item/krgoods_30_475344_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E475344-000/00",
-     "rating": 4.8,
-     "reviews": 4269
-    },
-    {
-     "id": "E470118-001",
-     "name": "PUFFTECH파카",
-     "gender": "MEN",
-     "price": 89900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/470118001/item/krgoods_53_470118001_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E470118-001/00",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/494716/item/krgoods_07_494716_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E494716-000/00",
      "rating": 5,
      "reviews": 2
     },
     {
-     "id": "E470118-000",
-     "name": "PUFFTECH파카",
-     "gender": "MEN",
-     "price": 89900,
-     "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470118/item/goods_01_470118_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E470118-000/00",
-     "rating": 4.8,
-     "reviews": 646
-    },
-    {
-     "id": "E470061-000",
-     "name": "PUFFTECH컴팩트베스트",
-     "gender": "MEN",
-     "price": 49900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/470061/item/krgoods_08_470061_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E470061-000/00",
-     "rating": 4.8,
-     "reviews": 213
-    },
-    {
-     "id": "E469871-000",
-     "name": "PUFFTECH파카",
-     "gender": "WOMEN",
-     "price": 89900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/469871/item/krgoods_60_469871_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E469871-000/00",
-     "rating": 4.8,
-     "reviews": 428
-    },
-    {
-     "id": "E469863-000",
-     "name": "PUFFTECH컴팩트베스트",
-     "gender": "WOMEN",
-     "price": 49900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/469863/item/krgoods_01_469863_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E469863-000/00",
+     "id": "E494715-000",
+     "name": "GU슈퍼와이드유틸리티웜팬츠 ENGINEERED GARMENTS",
+     "gender": "UNISEX",
+     "price": 39900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/494715/item/krgoods_39_494715_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E494715-000/00",
      "rating": 4.7,
-     "reviews": 306
+     "reviews": 9
     },
     {
-     "id": "E469836-000",
-     "name": "히트텍레깅스(10부)",
+     "id": "E488866-000",
+     "name": "스마트이지팬츠(스트라이프)",
      "gender": "WOMEN",
-     "price": 16900,
-     "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469836/item/goods_09_469836_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E469836-000/00",
-     "rating": 4.8,
-     "reviews": 410
+     "price": 29900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488866/item/krgoods_07_488866_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E488866-000/00",
+     "rating": 4.9,
+     "reviews": 58
     },
     {
-     "id": "E469740-000",
-     "name": "히트텍U넥T(8부)",
+     "id": "E488859-000",
+     "name": "유틸리티숄더백",
+     "gender": "UNISEX",
+     "price": 29900,
+     "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488859/item/goods_09_488859_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E488859-000/00",
+     "rating": 4.8,
+     "reviews": 36
+    },
+    {
+     "id": "E488858-000",
+     "name": "유틸리티백팩",
+     "gender": "UNISEX",
+     "price": 49900,
+     "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488858/item/goods_09_488858_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E488858-000/00",
+     "rating": 4.4,
+     "reviews": 24
+    },
+    {
+     "id": "E488743-000",
+     "name": "배럴진",
+     "gender": "UNISEX",
+     "price": 49900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488743/item/krgoods_09_488743_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E488743-000/00",
+     "rating": 4.9,
+     "reviews": 193
+    },
+    {
+     "id": "E487959-000",
+     "name": "스마트이지팬츠",
      "gender": "WOMEN",
-     "price": 16900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/469740/item/krgoods_11_469740_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E469740-000/00",
+     "price": 29900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487959/item/krgoods_09_487959_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E487959-000/00",
      "rating": 4.8,
-     "reviews": 267
+     "reviews": 64
     },
     {
-     "id": "E461013-000",
-     "name": "히트텍타이즈",
+     "id": "E487689-000",
+     "name": "패디드쇼트블루종",
      "gender": "MEN",
-     "price": 16900,
-     "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461013/item/goods_09_461013_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E461013-000/00",
-     "rating": 4.8,
-     "reviews": 396
+     "price": 79900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487689/item/krgoods_09_487689_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E487689-000/00",
+     "rating": 5,
+     "reviews": 10
     },
     {
-     "id": "E461003-000",
-     "name": "히트텍크루넥T(9부)",
-     "gender": "MEN",
-     "price": 16900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/461003/item/krgoods_08_461003_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E461003-000/00",
+     "id": "E487404-000",
+     "name": "PUFFTECH컴팩트재킷",
+     "gender": "WOMEN",
+     "price": 59900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487404/item/krgoods_09_487404_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E487404-000/00",
      "rating": 4.8,
-     "reviews": 439
+     "reviews": 69
     },
     {
-     "id": "E461001-000",
-     "name": "히트텍크루넥T",
+     "id": "E487207-000",
+     "name": "배럴진(코듀로이)",
      "gender": "MEN",
-     "price": 16900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/461001/item/krgoods_00_461001_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E461001-000/00",
+     "price": 49900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487207/item/krgoods_34_487207_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E487207-000/00",
+     "rating": 4.7,
+     "reviews": 12
+    },
+    {
+     "id": "E486825-000",
+     "name": "GIRLS수플레얀가디건",
+     "gender": "KIDS",
+     "price": 19900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486825/item/krgoods_15_486825_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E486825-000/00",
      "rating": 4.8,
-     "reviews": 198
+     "reviews": 47
+    },
+    {
+     "id": "E486819-000",
+     "name": "PUFFTECH컴팩트재킷",
+     "gender": "MEN",
+     "price": 59900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486819/item/krgoods_08_486819_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E486819-000/00",
+     "rating": 4.9,
+     "reviews": 18
+    },
+    {
+     "id": "E486622-000",
+     "name": "KIDS PUFFTECH워셔블베스트",
+     "gender": "KIDS",
+     "price": 29900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486622/item/krgoods_71_486622_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E486622-000/00",
+     "rating": 5,
+     "reviews": 8
+    },
+    {
+     "id": "E486086-000",
+     "name": "램스울V넥스웨터",
+     "gender": "UNISEX",
+     "price": 39900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486086/item/krgoods_12_486086_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E486086-000/00",
+     "rating": 4.6,
+     "reviews": 14
+    },
+    {
+     "id": "E486042-000",
+     "name": "파라슈트팬츠",
+     "gender": "UNISEX",
+     "price": 39900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486042/item/krgoods_31_486042_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E486042-000/00",
+     "rating": 4.8,
+     "reviews": 179
+    },
+    {
+     "id": "E484854-000",
+     "name": "스웨트스트레이트팬츠(다리길이74~77cm·긴기장)",
+     "gender": "UNISEX",
+     "price": 39900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484854/item/krgoods_59_484854_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E484854-000/00",
+     "rating": 4.5,
+     "reviews": 31
+    },
+    {
+     "id": "E483285-000",
+     "name": "스웨트스트레이트팬츠(다리길이69~72cm)",
+     "gender": "UNISEX",
+     "price": 39900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/483285/item/krgoods_30_483285_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E483285-000/00",
+     "rating": 4.8,
+     "reviews": 148
+    },
+    {
+     "id": "E473715-000",
+     "name": "스웨트와이드팬츠(다리길이70~76cm·긴기장)",
+     "gender": "UNISEX",
+     "price": 39900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/473715/item/krgoods_08_473715_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E473715-000/01",
+     "rating": 4.8,
+     "reviews": 311
+    },
+    {
+     "id": "E471809-000",
+     "name": "스웨트와이드팬츠(다리길이66~72cm)",
+     "gender": "UNISEX",
+     "price": 39900,
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/471809/item/krgoods_03_471809_3x4.jpg",
+     "url": "https://www.uniqlo.com/kr/ko/products/E471809-000/00",
+     "rating": 4.8,
+     "reviews": 1446
     }
    ],
-   "count": 28
-  },
-  {
-   "key": "limitedOffer:1793987201:1794502800",
-   "label": "기간한정가격",
-   "startDate": "2026/11/07",
-   "endDate": "2026/11/12",
-   "start": 1793987201,
-   "end": 1794502800,
-   "products": [
-    {
-     "id": "E469742-000",
-     "name": "히트텍크루넥T(긴팔)",
-     "gender": "WOMEN",
-     "price": 16900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/469742/item/krgoods_02_469742_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E469742-000/00",
-     "rating": 4.8,
-     "reviews": 347
-    }
-   ],
-   "count": 1
+   "count": 21
   }
  ],
  "discount": [
@@ -1100,6 +1009,17 @@
   }
  ],
  "history": [
+  {
+   "key": "limitedOffer:1794502800:1795107600",
+   "label": "기간한정가격",
+   "startDate": "2026/11/13",
+   "endDate": "2026/11/19",
+   "start": 1794502800,
+   "end": 1795107600,
+   "firstSeen": "2026-11-13T02:58:49+09:00",
+   "maxCount": 21,
+   "lastSeen": "2026-11-13T02:58:49+09:00"
+  },
   {
    "key": "limitedOffer:1793987201:1794502800",
    "label": "기간한정가격",
