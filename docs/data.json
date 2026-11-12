@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-12T08:51:36+09:00",
+ "updatedAt": "2026-11-12T10:13:11+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 29,
-  "discountCount": 349,
+  "discountCount": 342,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 349
+   "count": 342
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 41
+   "count": 39
   },
   {
    "code": "salesStart",
@@ -45,22 +45,22 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 196
+   "count": 194
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 371
+   "count": 367
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 238
+   "count": 236
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 271
+   "count": 268
   }
  ],
  "periods": [
@@ -197,7 +197,7 @@
      "name": "수플레얀크루넥스웨터",
      "gender": "UNISEX",
      "price": 29900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486080/item/krgoods_53_486080_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486080/item/krgoods_65_486080_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486080-000/00",
      "rating": 4.9,
      "reviews": 30
@@ -812,18 +812,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E489451-000",
-   "name": "코튼스탠드칼라셔츠(긴팔)스트라이프",
-   "gender": "WOMEN",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489451/item/krgoods_01_489451_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489451-000/00",
-   "rating": 4.7,
-   "reviews": 18,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E489415-000",
    "name": "스마트턱와이드팬츠(체크)",
    "gender": "WOMEN",
@@ -1086,6 +1074,18 @@
    "reviews": 19,
    "since": "2026/11/10",
    "sinceTs": 1794243600
+  },
+  {
+   "id": "E488084-000",
+   "name": "턱치노팬츠",
+   "gender": "WOMEN",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488084/item/krgoods_09_488084_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488084-000/00",
+   "rating": 4,
+   "reviews": 3,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1098,7 +1098,7 @@
    "end": 1794502800,
    "firstSeen": "2026-11-06T03:56:42+09:00",
    "maxCount": 32,
-   "lastSeen": "2026-11-12T08:51:36+09:00"
+   "lastSeen": "2026-11-12T10:13:11+09:00"
   },
   {
    "key": "limitedOffer:1793293200:1793898000",
