@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-13T14:00:28+09:00",
+ "updatedAt": "2026-11-13T15:02:12+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 331,
+  "discountCount": 329,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,7 +20,7 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 331
+   "count": 329
   },
   {
    "code": "colorSizeLimitedPrice",
@@ -40,27 +40,27 @@
   {
    "code": "comingSoon",
    "name": "판매예정",
-   "count": 146
+   "count": 148
   },
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 186
+   "count": 185
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 363
+   "count": 361
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 236
+   "count": 235
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 271
+   "count": 270
   }
  ],
  "periods": [
@@ -818,18 +818,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E488630-000",
-   "name": "EZY배럴진",
-   "gender": "MEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488630/item/krgoods_63_488630_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488630-000/00",
-   "rating": 4.8,
-   "reviews": 14,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E488605-000",
    "name": "모크넥T(긴팔)",
    "gender": "UNISEX",
@@ -996,6 +984,18 @@
    "reviews": 5,
    "since": "2026/11/10",
    "sinceTs": 1794243600
+  },
+  {
+   "id": "E487851-000",
+   "name": "코듀로이볼륨팬츠",
+   "gender": "UNISEX",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487851/item/krgoods_10_487851_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E487851-000/01",
+   "rating": 4.6,
+   "reviews": 15,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-13T14:00:28+09:00"
+   "lastSeen": "2026-11-13T15:02:12+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
