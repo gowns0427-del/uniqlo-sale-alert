@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-15T05:42:08+09:00",
+ "updatedAt": "2026-11-15T06:40:31+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 336,
+  "discountCount": 333,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 336
+   "count": 333
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 37
+   "count": 36
   },
   {
    "code": "salesStart",
@@ -50,17 +50,17 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 364
+   "count": 362
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 239
+   "count": 238
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 274
+   "count": 273
   }
  ],
  "periods": [
@@ -698,18 +698,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E489451-000",
-   "name": "코튼스탠드칼라셔츠(긴팔)스트라이프",
-   "gender": "WOMEN",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489451/item/krgoods_01_489451_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489451-000/00",
-   "rating": 4.7,
-   "reviews": 18,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E489425-000",
    "name": "코튼스탠드칼라셔츠(긴팔)",
    "gender": "WOMEN",
@@ -996,6 +984,18 @@
    "reviews": 5,
    "since": "2026/11/10",
    "sinceTs": 1794243600
+  },
+  {
+   "id": "E487851-000",
+   "name": "코듀로이볼륨팬츠",
+   "gender": "UNISEX",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487851/item/krgoods_10_487851_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E487851-000/01",
+   "rating": 4.6,
+   "reviews": 15,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-15T05:42:08+09:00"
+   "lastSeen": "2026-11-15T06:40:31+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
