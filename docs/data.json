@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-16T07:43:28+09:00",
+ "updatedAt": "2026-11-16T08:49:29+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 321,
+  "discountCount": 320,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,7 +20,7 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 321
+   "count": 320
   },
   {
    "code": "colorSizeLimitedPrice",
@@ -50,12 +50,12 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 361
+   "count": 360
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 237
+   "count": 236
   },
   {
    "code": "unisex",
@@ -77,7 +77,7 @@
      "name": "GU후리스유틸리티재킷 ENGINEERED GARMENTS",
      "gender": "UNISEX",
      "price": 49900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/494717/item/krgoods_07_494717_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/494717/item/krgoods_39_494717_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E494717-000/00",
      "rating": 4.5,
      "reviews": 19
@@ -846,7 +846,7 @@
    "name": "와이드스트레이트진",
    "gender": "WOMEN",
    "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488462/item/krgoods_07_488462_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488462/item/krgoods_22_488462_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488462-000/00",
    "rating": 4.7,
    "reviews": 39,
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-16T07:43:28+09:00"
+   "lastSeen": "2026-11-16T08:49:29+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
