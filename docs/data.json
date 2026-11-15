@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-15T17:12:36+09:00",
+ "updatedAt": "2026-11-15T18:50:03+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 331,
+  "discountCount": 361,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 331
+   "count": 361
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 37
+   "count": 39
   },
   {
    "code": "salesStart",
@@ -45,22 +45,22 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 189
+   "count": 195
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 362
+   "count": 371
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 238
+   "count": 248
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 273
+   "count": 279
   }
  ],
  "periods": [
@@ -370,6 +370,18 @@
    "url": "https://www.uniqlo.com/kr/ko/products/E492855-000/00",
    "rating": 0,
    "reviews": 0,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E492365-000",
+   "name": "배기스트레이트진",
+   "gender": "MEN",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492365/item/krgoods_08_492365_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E492365-000/00",
+   "rating": 4.8,
+   "reviews": 6,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -698,6 +710,42 @@
    "sinceTs": 1794243600
   },
   {
+   "id": "E489451-000",
+   "name": "코튼스탠드칼라셔츠(긴팔)스트라이프",
+   "gender": "WOMEN",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489451/item/krgoods_01_489451_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E489451-000/00",
+   "rating": 4.8,
+   "reviews": 20,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E489415-000",
+   "name": "스마트턱와이드팬츠(체크)",
+   "gender": "WOMEN",
+   "price": 29900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489415/item/krgoods_37_489415_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E489415-000/00",
+   "rating": 5,
+   "reviews": 2,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E489398-000",
+   "name": "립V넥가디건(스트라이프)",
+   "gender": "WOMEN",
+   "price": 7900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489398/item/krgoods_69_489398_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E489398-000/00",
+   "rating": 5,
+   "reviews": 16,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
    "id": "E489190-000",
    "name": "턱큐롯",
    "gender": "WOMEN",
@@ -706,6 +754,30 @@
    "url": "https://www.uniqlo.com/kr/ko/products/E489190-000/00",
    "rating": 5,
    "reviews": 24,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E489061-000",
+   "name": "스트라이프폴로셔츠B",
+   "gender": "WOMEN",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489061/item/krgoods_38_489061_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E489061-000/00",
+   "rating": 4.8,
+   "reviews": 25,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E489060-000",
+   "name": "스트라이프폴로셔츠(긴팔)A",
+   "gender": "WOMEN",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489060/item/krgoods_01_489060_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E489060-000/00",
+   "rating": 4.8,
+   "reviews": 18,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -806,14 +878,26 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E488630-000",
-   "name": "EZY배럴진",
-   "gender": "MEN",
+   "id": "E488722-000",
+   "name": "워셔블립니트원피스(슬리브리스)",
+   "gender": "WOMEN",
    "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488630/item/krgoods_63_488630_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488630-000/00",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488722/item/krgoods_08_488722_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488722-000/00",
    "rating": 4.8,
-   "reviews": 14,
+   "reviews": 17,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E488693-000",
+   "name": "코튼스탠드칼라원피스",
+   "gender": "WOMEN",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488693/item/krgoods_69_488693_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488693-000/00",
+   "rating": 5,
+   "reviews": 3,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -866,6 +950,18 @@
    "sinceTs": 1794243600
   },
   {
+   "id": "E488459-000",
+   "name": "후드롱코트(오버사이즈핏)",
+   "gender": "UNISEX",
+   "price": 79900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488459/item/krgoods_33_488459_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488459-000/00",
+   "rating": 4.7,
+   "reviews": 12,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
    "id": "E488441-000",
    "name": "울캐시미어스톨",
    "gender": "UNISEX",
@@ -900,102 +996,6 @@
    "reviews": 6,
    "since": "2026/11/10",
    "sinceTs": 1794243600
-  },
-  {
-   "id": "E488200-000",
-   "name": "코듀로이쇼트재킷",
-   "gender": "WOMEN",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488200/item/krgoods_08_488200_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488200-000/00",
-   "rating": 5,
-   "reviews": 3,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E488084-000",
-   "name": "턱치노팬츠",
-   "gender": "WOMEN",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488084/item/krgoods_09_488084_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488084-000/00",
-   "rating": 4,
-   "reviews": 3,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E488083-000",
-   "name": "플리츠스커트",
-   "gender": "WOMEN",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488083/item/krgoods_09_488083_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488083-000/00",
-   "rating": 5,
-   "reviews": 3,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E488009-001",
-   "name": "랩스코츠",
-   "gender": "WOMEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488009001/item/krgoods_37_488009001_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488009-001/00",
-   "rating": 5,
-   "reviews": 4,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E488009-000",
-   "name": "랩스코츠",
-   "gender": "WOMEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488009/item/krgoods_04_488009_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488009-000/00",
-   "rating": 5,
-   "reviews": 3,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E488008-000",
-   "name": "플리츠스코츠",
-   "gender": "WOMEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488008/item/krgoods_01_488008_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488008-000/01",
-   "rating": 4.6,
-   "reviews": 16,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E487950-000",
-   "name": "BN살로페트",
-   "gender": "BABY",
-   "price": 12900,
-   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/487950/item/goods_66_487950_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E487950-000/00",
-   "rating": 5,
-   "reviews": 5,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E487851-000",
-   "name": "코듀로이볼륨팬츠",
-   "gender": "UNISEX",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487851/item/krgoods_10_487851_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E487851-000/01",
-   "rating": 4.7,
-   "reviews": 17,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-15T17:12:36+09:00"
+   "lastSeen": "2026-11-15T18:50:03+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
