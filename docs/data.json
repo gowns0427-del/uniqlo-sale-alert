@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-16T18:43:53+09:00",
+ "updatedAt": "2026-11-16T20:27:09+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 334,
+  "discountCount": 330,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 334
+   "count": 330
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 39
+   "count": 37
   },
   {
    "code": "salesStart",
@@ -45,17 +45,17 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 188
+   "count": 187
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 360
+   "count": 357
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 240
+   "count": 239
   },
   {
    "code": "unisex",
@@ -80,7 +80,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/494717/item/krgoods_39_494717_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E494717-000/00",
      "rating": 4.5,
-     "reviews": 19
+     "reviews": 20
     },
     {
      "id": "E494716-000",
@@ -100,7 +100,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/494715/item/krgoods_39_494715_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E494715-000/00",
      "rating": 4.7,
-     "reviews": 12
+     "reviews": 13
     },
     {
      "id": "E488866-000",
@@ -110,7 +110,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488866/item/krgoods_07_488866_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E488866-000/00",
      "rating": 4.9,
-     "reviews": 60
+     "reviews": 61
     },
     {
      "id": "E488859-000",
@@ -170,7 +170,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487404/item/krgoods_09_487404_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E487404-000/00",
      "rating": 4.8,
-     "reviews": 83
+     "reviews": 86
     },
     {
      "id": "E487207-000",
@@ -190,7 +190,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486825/item/krgoods_15_486825_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486825-000/00",
      "rating": 4.8,
-     "reviews": 48
+     "reviews": 49
     },
     {
      "id": "E486819-000",
@@ -200,7 +200,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486819/item/krgoods_08_486819_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486819-000/00",
      "rating": 4.9,
-     "reviews": 20
+     "reviews": 21
     },
     {
      "id": "E486622-000",
@@ -230,7 +230,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486042/item/krgoods_31_486042_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486042-000/00",
      "rating": 4.8,
-     "reviews": 184
+     "reviews": 185
     },
     {
      "id": "E484854-000",
@@ -270,7 +270,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/471809/item/krgoods_03_471809_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E471809-000/00",
      "rating": 4.8,
-     "reviews": 1463
+     "reviews": 1464
     }
    ],
    "count": 20
@@ -370,18 +370,6 @@
    "url": "https://www.uniqlo.com/kr/ko/products/E492855-000/00",
    "rating": 0,
    "reviews": 0,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E492365-000",
-   "name": "배기스트레이트진",
-   "gender": "MEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492365/item/krgoods_65_492365_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E492365-000/00",
-   "rating": 4.8,
-   "reviews": 6,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -669,7 +657,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491087/item/krgoods_09_491087_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491087-000/00",
    "rating": 4.8,
-   "reviews": 48,
+   "reviews": 49,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -717,19 +705,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489190/item/krgoods_09_489190_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E489190-000/00",
    "rating": 5,
-   "reviews": 27,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
-   "id": "E489061-000",
-   "name": "스트라이프폴로셔츠B",
-   "gender": "WOMEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489061/item/krgoods_69_489061_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489061-000/00",
-   "rating": 4.8,
-   "reviews": 25,
+   "reviews": 28,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -774,7 +750,7 @@
    "name": "드레이프셔츠",
    "gender": "UNISEX",
    "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488801/item/krgoods_07_488801_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488801/item/krgoods_30_488801_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488801-000/00",
    "rating": 4.8,
    "reviews": 23,
@@ -842,18 +818,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E488630-000",
-   "name": "EZY배럴진",
-   "gender": "MEN",
-   "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488630/item/krgoods_66_488630_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488630-000/00",
-   "rating": 4.8,
-   "reviews": 14,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E488605-000",
    "name": "모크넥T(긴팔)",
    "gender": "UNISEX",
@@ -872,8 +836,8 @@
    "price": 19900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488522/item/krgoods_61_488522_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488522-000/00",
-   "rating": 4.7,
-   "reviews": 14,
+   "rating": 4.8,
+   "reviews": 15,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -938,18 +902,6 @@
    "sinceTs": 1794243600
   },
   {
-   "id": "E488202-000",
-   "name": "코듀로이배럴레그팬츠",
-   "gender": "WOMEN",
-   "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488202/item/krgoods_30_488202_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488202-000/00",
-   "rating": 4.6,
-   "reviews": 8,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
-  },
-  {
    "id": "E488200-000",
    "name": "코듀로이쇼트재킷",
    "gender": "WOMEN",
@@ -957,7 +909,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488200/item/krgoods_08_488200_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488200-000/00",
    "rating": 5,
-   "reviews": 3,
+   "reviews": 4,
    "since": "2026/11/10",
    "sinceTs": 1794243600
   },
@@ -996,6 +948,54 @@
    "reviews": 5,
    "since": "2026/11/10",
    "sinceTs": 1794243600
+  },
+  {
+   "id": "E488009-000",
+   "name": "랩스코츠",
+   "gender": "WOMEN",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488009/item/krgoods_04_488009_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488009-000/00",
+   "rating": 5,
+   "reviews": 3,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E488008-000",
+   "name": "플리츠스코츠",
+   "gender": "WOMEN",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488008/item/krgoods_01_488008_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488008-000/01",
+   "rating": 4.6,
+   "reviews": 16,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E487950-000",
+   "name": "BN살로페트",
+   "gender": "BABY",
+   "price": 12900,
+   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/487950/item/goods_66_487950_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E487950-000/00",
+   "rating": 5,
+   "reviews": 5,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
+   "id": "E487851-000",
+   "name": "코듀로이볼륨팬츠",
+   "gender": "UNISEX",
+   "price": 39900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487851/item/krgoods_10_487851_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E487851-000/01",
+   "rating": 4.7,
+   "reviews": 17,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-16T18:43:53+09:00"
+   "lastSeen": "2026-11-16T20:27:09+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
