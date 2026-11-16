@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-16T13:16:28+09:00",
+ "updatedAt": "2026-11-16T15:15:16+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 320,
+  "discountCount": 329,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 320
+   "count": 329
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 33
+   "count": 34
   },
   {
    "code": "salesStart",
@@ -45,17 +45,17 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 187
+   "count": 189
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 357
+   "count": 359
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 235
+   "count": 237
   },
   {
    "code": "unisex",
@@ -217,7 +217,7 @@
      "name": "램스울V넥스웨터",
      "gender": "UNISEX",
      "price": 39900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486086/item/krgoods_12_486086_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486086/item/krgoods_69_486086_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486086-000/00",
      "rating": 4.7,
      "reviews": 17
@@ -738,7 +738,7 @@
    "name": "드레이프셔츠",
    "gender": "UNISEX",
    "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488801/item/krgoods_39_488801_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488801/item/krgoods_30_488801_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488801-000/00",
    "rating": 4.8,
    "reviews": 23,
@@ -926,6 +926,18 @@
    "sinceTs": 1794243600
   },
   {
+   "id": "E488014-000",
+   "name": "립V넥가디건",
+   "gender": "WOMEN",
+   "price": 7900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488014/item/krgoods_03_488014_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E488014-000/00",
+   "rating": 4.8,
+   "reviews": 36,
+   "since": "2026/11/10",
+   "sinceTs": 1794243600
+  },
+  {
    "id": "E488009-001",
    "name": "랩스코츠",
    "gender": "WOMEN",
@@ -984,18 +996,6 @@
    "reviews": 17,
    "since": "2026/11/10",
    "sinceTs": 1794243600
-  },
-  {
-   "id": "E487842-000",
-   "name": "더플코트",
-   "gender": "UNISEX",
-   "price": 129000,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487842/item/krgoods_39_487842_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E487842-000/00",
-   "rating": 5,
-   "reviews": 2,
-   "since": "2026/11/10",
-   "sinceTs": 1794243600
   }
  ],
  "history": [
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-16T13:16:28+09:00"
+   "lastSeen": "2026-11-16T15:15:16+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
