@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-17T23:57:54+09:00",
+ "updatedAt": "2026-11-18T00:59:08+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 400,
+  "discountCount": 415,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 400
+   "count": 415
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 50
+   "count": 52
   },
   {
    "code": "salesStart",
@@ -50,17 +50,17 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 357
+   "count": 364
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 243
+   "count": 245
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 279
+   "count": 282
   }
  ],
  "periods": [
@@ -938,6 +938,18 @@
    "sinceTs": 1794848400
   },
   {
+   "id": "E491000-000",
+   "name": "Jason Polan스웨트셔츠A",
+   "gender": "MEN",
+   "price": 19900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491000/item/krgoods_02_491000_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E491000-000/00",
+   "rating": 5,
+   "reviews": 4,
+   "since": "2026/11/17",
+   "sinceTs": 1794848400
+  },
+  {
    "id": "E489763-000",
    "name": "플란넬이지팬츠(깅엄)",
    "gender": "WOMEN",
@@ -984,18 +996,6 @@
    "reviews": 6,
    "since": "2026/11/17",
    "sinceTs": 1794848400
-  },
-  {
-   "id": "E489482-000",
-   "name": "울블렌드해링턴재킷",
-   "gender": "UNISEX",
-   "price": 59900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489482/item/krgoods_33_489482_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E489482-000/00",
-   "rating": 5,
-   "reviews": 8,
-   "since": "2026/11/17",
-   "sinceTs": 1794848400
   }
  ],
  "history": [
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-17T23:57:54+09:00"
+   "lastSeen": "2026-11-18T00:59:08+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
