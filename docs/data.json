@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-18T06:56:34+09:00",
+ "updatedAt": "2026-11-18T07:57:51+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 412,
+  "discountCount": 409,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 412
+   "count": 409
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 52
+   "count": 53
   },
   {
    "code": "salesStart",
@@ -45,22 +45,22 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 197
+   "count": 196
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 365
+   "count": 366
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 246
+   "count": 245
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 284
+   "count": 283
   }
  ],
  "periods": [
@@ -80,7 +80,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/494717/item/krgoods_39_494717_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E494717-000/00",
      "rating": 4.5,
-     "reviews": 23
+     "reviews": 24
     },
     {
      "id": "E494716-000",
@@ -240,7 +240,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/484854/item/krgoods_39_484854_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E484854-000/00",
      "rating": 4.5,
-     "reviews": 33
+     "reviews": 34
     },
     {
      "id": "E483285-000",
@@ -969,7 +969,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489492/item/krgoods_39_489492_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E489492-000/00",
    "rating": 5,
-   "reviews": 7,
+   "reviews": 8,
    "since": "2026/11/17",
    "sinceTs": 1794848400
   },
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-18T06:56:34+09:00"
+   "lastSeen": "2026-11-18T07:57:51+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
