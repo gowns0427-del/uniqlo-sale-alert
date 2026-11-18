@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-18T19:06:29+09:00",
+ "updatedAt": "2026-11-18T20:12:31+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 384,
+  "discountCount": 382,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 384
+   "count": 382
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 49
+   "count": 47
   },
   {
    "code": "salesStart",
@@ -45,22 +45,22 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 187
+   "count": 188
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 356
+   "count": 352
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 233
+   "count": 234
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 278
+   "count": 279
   }
  ],
  "periods": [
@@ -80,7 +80,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/494717/item/krgoods_39_494717_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E494717-000/00",
      "rating": 4.5,
-     "reviews": 25
+     "reviews": 26
     },
     {
      "id": "E494716-000",
@@ -140,7 +140,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488743/item/krgoods_09_488743_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E488743-000/00",
      "rating": 4.9,
-     "reviews": 210
+     "reviews": 211
     },
     {
      "id": "E487959-000",
@@ -170,7 +170,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487404/item/krgoods_09_487404_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E487404-000/00",
      "rating": 4.8,
-     "reviews": 89
+     "reviews": 90
     },
     {
      "id": "E487207-000",
@@ -190,7 +190,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486825/item/krgoods_15_486825_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486825-000/00",
      "rating": 4.8,
-     "reviews": 49
+     "reviews": 50
     },
     {
      "id": "E486819-000",
@@ -220,7 +220,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486086/item/krgoods_69_486086_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486086-000/00",
      "rating": 4.7,
-     "reviews": 20
+     "reviews": 22
     },
     {
      "id": "E486042-000",
@@ -270,7 +270,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/471809/item/krgoods_03_471809_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E471809-000/00",
      "rating": 4.8,
-     "reviews": 1471
+     "reviews": 1472
     }
    ],
    "count": 20
@@ -350,18 +350,6 @@
    "sinceTs": 1794848400
   },
   {
-   "id": "E493533-000",
-   "name": "KIDS스웨트스타디움블루종",
-   "gender": "KIDS",
-   "price": 12900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/493533/item/krgoods_16_493533_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E493533-000/00",
-   "rating": 5,
-   "reviews": 10,
-   "since": "2026/11/17",
-   "sinceTs": 1794848400
-  },
-  {
    "id": "E493046-000",
    "name": "NY POP ART UT(그래픽T)Keith Haring",
    "gender": "MEN",
@@ -416,8 +404,8 @@
    "price": 39900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491991/item/krgoods_03_491991_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491991-000/00",
-   "rating": 4.9,
-   "reviews": 46,
+   "rating": 4.8,
+   "reviews": 47,
    "since": "2026/11/17",
    "sinceTs": 1794848400
   },
@@ -536,8 +524,8 @@
    "price": 12900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491926/item/krgoods_25_491926_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491926-000/00",
-   "rating": 5,
-   "reviews": 1,
+   "rating": 4.5,
+   "reviews": 2,
    "since": "2026/11/17",
    "sinceTs": 1794848400
   },
@@ -740,8 +728,8 @@
    "price": 12900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491839/item/krgoods_09_491839_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491839-000/00",
-   "rating": 4.3,
-   "reviews": 13,
+   "rating": 4.2,
+   "reviews": 14,
    "since": "2026/11/17",
    "sinceTs": 1794848400
   },
@@ -945,7 +933,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491096/item/krgoods_34_491096_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491096-000/00",
    "rating": 4.8,
-   "reviews": 66,
+   "reviews": 67,
    "since": "2026/11/17",
    "sinceTs": 1794848400
   },
@@ -996,6 +984,18 @@
    "reviews": 6,
    "since": "2026/11/17",
    "sinceTs": 1794848400
+  },
+  {
+   "id": "E489482-000",
+   "name": "울블렌드해링턴재킷",
+   "gender": "UNISEX",
+   "price": 59900,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489482/item/krgoods_33_489482_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E489482-000/00",
+   "rating": 5,
+   "reviews": 8,
+   "since": "2026/11/17",
+   "sinceTs": 1794848400
   }
  ],
  "history": [
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-18T19:06:29+09:00"
+   "lastSeen": "2026-11-18T20:12:31+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
