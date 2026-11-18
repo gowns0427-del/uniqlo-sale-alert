@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-18T14:04:22+09:00",
+ "updatedAt": "2026-11-18T15:10:37+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 383,
+  "discountCount": 384,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,7 +20,7 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 383
+   "count": 384
   },
   {
    "code": "colorSizeLimitedPrice",
@@ -50,12 +50,12 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 355
+   "count": 356
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 236
+   "count": 237
   },
   {
    "code": "unisex",
@@ -134,7 +134,7 @@
     },
     {
      "id": "E488743-000",
-     "name": "배럴진",
+     "name": "배럴레그진",
      "gender": "UNISEX",
      "price": 49900,
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488743/item/krgoods_09_488743_3x4.jpg",
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-18T14:04:22+09:00"
+   "lastSeen": "2026-11-18T15:10:37+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
