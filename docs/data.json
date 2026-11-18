@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-18T15:10:37+09:00",
+ "updatedAt": "2026-11-18T17:22:39+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 384,
+  "discountCount": 383,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,7 +20,7 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 384
+   "count": 383
   },
   {
    "code": "colorSizeLimitedPrice",
@@ -50,12 +50,12 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 356
+   "count": 354
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 237
+   "count": 234
   },
   {
    "code": "unisex",
@@ -97,7 +97,7 @@
      "name": "GU슈퍼와이드유틸리티웜팬츠 ENGINEERED GARMENTS",
      "gender": "UNISEX",
      "price": 39900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/494715/item/krgoods_39_494715_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/494715/item/krgoods_07_494715_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E494715-000/00",
      "rating": 4.7,
      "reviews": 17
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-18T15:10:37+09:00"
+   "lastSeen": "2026-11-18T17:22:39+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
