@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-19T18:08:28+09:00",
+ "updatedAt": "2026-11-19T20:04:55+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 20,
-  "discountCount": 394,
+  "discountCount": 386,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 394
+   "count": 386
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 53
+   "count": 52
   },
   {
    "code": "salesStart",
@@ -45,22 +45,22 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 192
+   "count": 190
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 368
+   "count": 361
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 239
+   "count": 234
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 281
+   "count": 278
   }
  ],
  "periods": [
@@ -110,7 +110,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488866/item/krgoods_07_488866_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E488866-000/00",
      "rating": 4.9,
-     "reviews": 62
+     "reviews": 63
     },
     {
      "id": "E488859-000",
@@ -200,7 +200,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486819/item/krgoods_09_486819_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486819-000/00",
      "rating": 4.9,
-     "reviews": 23
+     "reviews": 24
     },
     {
      "id": "E486622-000",
@@ -220,7 +220,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486086/item/krgoods_69_486086_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486086-000/00",
      "rating": 4.7,
-     "reviews": 22
+     "reviews": 23
     },
     {
      "id": "E486042-000",
@@ -250,7 +250,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/483285/item/krgoods_30_483285_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E483285-000/00",
      "rating": 4.7,
-     "reviews": 162
+     "reviews": 163
     },
     {
      "id": "E473715-000",
@@ -270,7 +270,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/471809/item/krgoods_03_471809_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E471809-000/00",
      "rating": 4.8,
-     "reviews": 1473
+     "reviews": 1477
     }
    ],
    "count": 20
@@ -798,7 +798,7 @@
    "name": "GU헤비웨이트스웨트코쿤풀집후디",
    "gender": "MEN",
    "price": 39900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491817/item/krgoods_64_491817_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491817/item/krgoods_02_491817_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491817-000/00",
    "rating": 4.3,
    "reviews": 3,
@@ -909,7 +909,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491268/item/krgoods_30_491268_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491268-000/01",
    "rating": 4.9,
-   "reviews": 18,
+   "reviews": 19,
    "since": "2026/11/17",
    "sinceTs": 1794848400
   },
@@ -1008,7 +1008,7 @@
    "end": 1795107600,
    "firstSeen": "2026-11-13T02:58:49+09:00",
    "maxCount": 21,
-   "lastSeen": "2026-11-19T18:08:28+09:00"
+   "lastSeen": "2026-11-19T20:04:55+09:00"
   },
   {
    "key": "limitedOffer:1793987201:1794502800",
