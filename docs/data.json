@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-20T10:07:52+09:00",
+ "updatedAt": "2026-11-20T11:53:55+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 17,
-  "discountCount": 378,
+  "discountCount": 375,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 378
+   "count": 375
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 47
+   "count": 45
   },
   {
    "code": "salesStart",
@@ -50,17 +50,17 @@
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 365
+   "count": 364
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 233
+   "count": 232
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 279
+   "count": 278
   }
  ],
  "periods": [
@@ -177,7 +177,7 @@
      "name": "스웨트오버사이즈풀집파카",
      "gender": "UNISEX",
      "price": 49900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485735/item/krgoods_39_485735_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/485735/item/krgoods_03_485735_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E485735-000/00",
      "rating": 4.9,
      "reviews": 138
@@ -876,7 +876,7 @@
    "name": "후리스조거팬츠(다리길이68~74cm)",
    "gender": "UNISEX",
    "price": 29900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491268/item/krgoods_30_491268_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491268/item/krgoods_09_491268_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491268-000/01",
    "rating": 4.9,
    "reviews": 19,
@@ -978,7 +978,7 @@
    "end": 1795712400,
    "firstSeen": "2026-11-20T04:02:06+09:00",
    "maxCount": 18,
-   "lastSeen": "2026-11-20T10:07:52+09:00"
+   "lastSeen": "2026-11-20T11:53:55+09:00"
   },
   {
    "key": "limitedOffer:1794502800:1795107600",
