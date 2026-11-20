@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-20T08:48:35+09:00",
+ "updatedAt": "2026-11-20T10:07:52+09:00",
  "bigSaleThreshold": 80,
  "status": {
-  "limitedOfferCount": 18,
-  "discountCount": 379,
+  "limitedOfferCount": 17,
+  "discountCount": 378,
   "bigSale": false
  },
  "flagCounts": [
@@ -15,12 +15,12 @@
   {
    "code": "limitedOffer",
    "name": "기간한정가격",
-   "count": 18
+   "count": 17
   },
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 379
+   "count": 378
   },
   {
    "code": "colorSizeLimitedPrice",
@@ -30,7 +30,7 @@
   {
    "code": "salesStart",
    "name": "NEW",
-   "count": 9
+   "count": 23
   },
   {
    "code": "newSKU",
@@ -40,27 +40,27 @@
   {
    "code": "comingSoon",
    "name": "판매예정",
-   "count": 161
+   "count": 146
   },
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 190
+   "count": 188
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 366
+   "count": 365
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 235
+   "count": 233
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 278
+   "count": 279
   }
  ],
  "periods": [
@@ -241,19 +241,9 @@
      "url": "https://www.uniqlo.com/kr/ko/products/E471808-000/00",
      "rating": 4.8,
      "reviews": 406
-    },
-    {
-     "id": "E492832-000",
-     "name": "해링턴재킷(패턴)",
-     "gender": "MEN",
-     "price": 69900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492832/item/krgoods_68_492832_3x4.jpg",
-     "url": "https://www.uniqlo.com/kr/ko/products/E492832-000/00",
-     "rating": 0,
-     "reviews": 0
     }
    ],
-   "count": 18
+   "count": 17
   }
  ],
  "discount": [
@@ -988,7 +978,7 @@
    "end": 1795712400,
    "firstSeen": "2026-11-20T04:02:06+09:00",
    "maxCount": 18,
-   "lastSeen": "2026-11-20T08:48:35+09:00"
+   "lastSeen": "2026-11-20T10:07:52+09:00"
   },
   {
    "key": "limitedOffer:1794502800:1795107600",
