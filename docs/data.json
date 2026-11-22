@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-23T03:52:07+09:00",
+ "updatedAt": "2026-11-23T04:53:14+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
-  "discountCount": 359,
+  "discountCount": 373,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 359
+   "count": 373
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 42
+   "count": 44
   },
   {
    "code": "salesStart",
@@ -45,22 +45,22 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 184
+   "count": 186
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 350
+   "count": 359
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 229
+   "count": 235
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 275
+   "count": 278
   }
  ],
  "periods": [
@@ -968,7 +968,7 @@
    "end": 1795712400,
    "firstSeen": "2026-11-20T04:02:06+09:00",
    "maxCount": 18,
-   "lastSeen": "2026-11-23T03:52:07+09:00"
+   "lastSeen": "2026-11-23T04:53:14+09:00"
   },
   {
    "key": "limitedOffer:1794502800:1795107600",
