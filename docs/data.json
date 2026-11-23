@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-23T15:09:13+09:00",
+ "updatedAt": "2026-11-23T17:40:48+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 16,
-  "discountCount": 364,
+  "discountCount": 361,
   "bigSale": false
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 364
+   "count": 361
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 41
+   "count": 40
   },
   {
    "code": "salesStart",
@@ -45,7 +45,7 @@
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 185
+   "count": 183
   },
   {
    "code": "limitedStore",
@@ -55,12 +55,12 @@
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 231
+   "count": 230
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 276
+   "count": 277
   }
  ],
  "periods": [
@@ -167,7 +167,7 @@
      "name": "수플레얀크루넥스웨터",
      "gender": "UNISEX",
      "price": 29900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486080/item/krgoods_53_486080_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486080/item/krgoods_30_486080_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486080-000/00",
      "rating": 4.9,
      "reviews": 60
@@ -480,7 +480,7 @@
   {
    "id": "E491926-000",
    "name": "GU멀티스트라이프스카프",
-   "gender": "WOMEN",
+   "gender": "UNISEX",
    "price": 12900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491926/item/krgoods_25_491926_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491926-000/00",
@@ -626,7 +626,7 @@
    "name": "GU페더얀가디건",
    "gender": "WOMEN",
    "price": 19900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491857/item/krgoods_38_491857_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491857/item/krgoods_41_491857_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491857-000/00",
    "rating": 4.7,
    "reviews": 4,
@@ -968,7 +968,7 @@
    "end": 1795712400,
    "firstSeen": "2026-11-20T04:02:06+09:00",
    "maxCount": 18,
-   "lastSeen": "2026-11-23T15:09:13+09:00"
+   "lastSeen": "2026-11-23T17:40:48+09:00"
   },
   {
    "key": "limitedOffer:1794502800:1795107600",
