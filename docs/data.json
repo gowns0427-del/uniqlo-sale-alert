@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-27T07:16:10+09:00",
+ "updatedAt": "2026-11-27T13:57:45+09:00",
  "bigSaleThreshold": 80,
  "status": {
   "limitedOfferCount": 84,
-  "discountCount": 403,
+  "discountCount": 381,
   "bigSale": true
  },
  "flagCounts": [
@@ -20,12 +20,12 @@
   {
    "code": "discount",
    "name": "가격인하",
-   "count": 403
+   "count": 381
   },
   {
    "code": "colorSizeLimitedPrice",
    "name": "옵션할인",
-   "count": 56
+   "count": 50
   },
   {
    "code": "salesStart",
@@ -40,27 +40,27 @@
   {
    "code": "comingSoon",
    "name": "판매예정",
-   "count": 146
+   "count": 147
   },
   {
    "code": "onlineOnly",
    "name": "온라인단독",
-   "count": 184
+   "count": 181
   },
   {
    "code": "limitedStore",
    "name": "일부매장제품",
-   "count": 349
+   "count": 338
   },
   {
    "code": "extraLargeStoreOnly",
    "name": "리사이클 소재",
-   "count": 234
+   "count": 224
   },
   {
    "code": "unisex",
    "name": "UNISEX",
-   "count": 290
+   "count": 283
   }
  ],
  "periods": [
@@ -120,7 +120,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/490468/item/krgoods_15_490468_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E490468-000/00",
      "rating": 5,
-     "reviews": 8
+     "reviews": 9
     },
     {
      "id": "E489455-000",
@@ -150,7 +150,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489110/item/krgoods_27_489110_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E489110-000/00",
      "rating": 4.9,
-     "reviews": 85
+     "reviews": 88
     },
     {
      "id": "E488964-000",
@@ -277,7 +277,7 @@
      "name": "웜이지팬츠(다리길이70cm·짧은기장)",
      "gender": "MEN",
      "price": 49900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487263/item/krgoods_36_487263_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487263/item/krgoods_58_487263_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E487263-000/00",
      "rating": 4.7,
      "reviews": 11
@@ -290,7 +290,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/487261/item/krgoods_09_487261_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E487261-000/00",
      "rating": 4.9,
-     "reviews": 55
+     "reviews": 56
     },
     {
      "id": "E487153-000",
@@ -317,7 +317,7 @@
      "name": "히트텍삭스(슬라우치라인)",
      "gender": "WOMEN",
      "price": 5900,
-     "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/487149/item/goods_09_487149_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/487149/item/goods_30_487149_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E487149-000/00",
      "rating": 0,
      "reviews": 0
@@ -457,7 +457,7 @@
      "name": "KIDS후리스풀집재킷",
      "gender": "KIDS",
      "price": 19900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486660/item/krgoods_09_486660_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/486660/item/krgoods_30_486660_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E486660-000/00",
      "rating": 5,
      "reviews": 7
@@ -529,8 +529,8 @@
      "price": 7900,
      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/485400/item/goods_60_485400_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E485400-000/00",
-     "rating": 4.5,
-     "reviews": 2
+     "rating": 4.6,
+     "reviews": 3
     },
     {
      "id": "E485397-000",
@@ -580,7 +580,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480732/item/goods_08_480732_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E480732-000/00",
      "rating": 4.8,
-     "reviews": 41
+     "reviews": 42
     },
     {
      "id": "E480729-000",
@@ -590,7 +590,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480729/item/goods_60_480729_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E480729-000/00",
      "rating": 5,
-     "reviews": 13
+     "reviews": 14
     },
     {
      "id": "E480727-000",
@@ -607,7 +607,7 @@
      "name": "히트텍삭스(립)",
      "gender": "WOMEN",
      "price": 5900,
-     "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480726/item/goods_24_480726_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480726/item/goods_00_480726_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E480726-000/00",
      "rating": 4.9,
      "reviews": 28
@@ -620,7 +620,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480721/item/goods_03_480721_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E480721-000/00",
      "rating": 4.8,
-     "reviews": 17
+     "reviews": 18
     },
     {
      "id": "E480717-000",
@@ -660,7 +660,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/478623/item/goods_10_478623_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E478623-000/00",
      "rating": 4.9,
-     "reviews": 111
+     "reviews": 112
     },
     {
      "id": "E478434-000",
@@ -700,14 +700,14 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/478168/item/krgoods_03_478168_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E478168-000/00",
      "rating": 4.8,
-     "reviews": 193
+     "reviews": 194
     },
     {
      "id": "E478141-000",
      "name": "KIDS후리스풀집재킷",
      "gender": "KIDS",
      "price": 19900,
-     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/478141/item/krgoods_30_478141_3x4.jpg",
+     "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/478141/item/krgoods_09_478141_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E478141-000/00",
      "rating": 4.8,
      "reviews": 135
@@ -760,7 +760,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/469871/item/krgoods_11_469871_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E469871-000/00",
      "rating": 4.8,
-     "reviews": 460
+     "reviews": 463
     },
     {
      "id": "E469836-000",
@@ -770,7 +770,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469836/item/goods_09_469836_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E469836-000/00",
      "rating": 4.8,
-     "reviews": 496
+     "reviews": 499
     },
     {
      "id": "E469742-000",
@@ -790,7 +790,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/469740/item/krgoods_11_469740_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E469740-000/00",
      "rating": 4.8,
-     "reviews": 319
+     "reviews": 322
     },
     {
      "id": "E469700-000",
@@ -870,7 +870,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/461003/item/krgoods_08_461003_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E461003-000/00",
      "rating": 4.8,
-     "reviews": 490
+     "reviews": 496
     },
     {
      "id": "E460490-000",
@@ -890,7 +890,7 @@
      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458788/item/goods_09_458788_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E458788-000/00",
      "rating": 4.8,
-     "reviews": 148
+     "reviews": 149
     },
     {
      "id": "E450543-000",
@@ -910,13 +910,25 @@
      "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/450195/item/krgoods_09_450195_3x4.jpg",
      "url": "https://www.uniqlo.com/kr/ko/products/E450195-000/00",
      "rating": 4.7,
-     "reviews": 1068
+     "reviews": 1070
     }
    ],
    "count": 84
   }
  ],
  "discount": [
+  {
+   "id": "E492561-000",
+   "name": "심리스다운재킷",
+   "gender": "MEN",
+   "price": 149000,
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492561/item/krgoods_32_492561_3x4.jpg",
+   "url": "https://www.uniqlo.com/kr/ko/products/E492561-000/00",
+   "rating": 4,
+   "reviews": 2,
+   "since": "2026/11/27",
+   "sinceTs": 1795716785
+  },
   {
    "id": "E492859-000",
    "name": "GU트랙재킷",
@@ -948,8 +960,8 @@
    "price": 29900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/492577/item/krgoods_37_492577_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E492577-000/00",
-   "rating": 5,
-   "reviews": 1,
+   "rating": 4.5,
+   "reviews": 2,
    "since": "2026/11/24",
    "sinceTs": 1795453200
   },
@@ -1426,7 +1438,7 @@
    "name": "MA-1블루종",
    "gender": "UNISEX",
    "price": 79900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491292/item/krgoods_09_491292_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491292/item/krgoods_57_491292_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491292-000/00",
    "rating": 4.8,
    "reviews": 36,
@@ -1465,7 +1477,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/491087/item/krgoods_09_491087_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E491087-000/00",
    "rating": 4.8,
-   "reviews": 58,
+   "reviews": 60,
    "since": "2026/11/24",
    "sinceTs": 1795453200
   },
@@ -1488,8 +1500,8 @@
    "price": 29900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489508/item/krgoods_16_489508_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E489508-000/00",
-   "rating": 3.5,
-   "reviews": 7,
+   "rating": 3.7,
+   "reviews": 8,
    "since": "2026/11/24",
    "sinceTs": 1795453200
   },
@@ -1500,8 +1512,8 @@
    "price": 19900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489508/item/krgoods_64_489508_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E489508-000/01",
-   "rating": 3.5,
-   "reviews": 7,
+   "rating": 3.7,
+   "reviews": 8,
    "since": "2026/11/24",
    "sinceTs": 1795453200
   },
@@ -1549,7 +1561,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/489406/item/krgoods_62_489406_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E489406-000/00",
    "rating": 5,
-   "reviews": 9,
+   "reviews": 10,
    "since": "2026/11/24",
    "sinceTs": 1795453200
   },
@@ -1584,8 +1596,8 @@
    "price": 9900,
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488777/item/krgoods_09_488777_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488777-000/00",
-   "rating": 5,
-   "reviews": 19,
+   "rating": 4.8,
+   "reviews": 20,
    "since": "2026/11/24",
    "sinceTs": 1795453200
   },
@@ -1609,7 +1621,7 @@
    "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488760/item/krgoods_07_488760_3x4.jpg",
    "url": "https://www.uniqlo.com/kr/ko/products/E488760-000/00",
    "rating": 4.9,
-   "reviews": 41,
+   "reviews": 43,
    "since": "2026/11/24",
    "sinceTs": 1795453200
   },
@@ -1624,18 +1636,6 @@
    "reviews": 5,
    "since": "2026/11/24",
    "sinceTs": 1795453200
-  },
-  {
-   "id": "E488559-000",
-   "name": "플란넬박시셔츠",
-   "gender": "UNISEX",
-   "price": 29900,
-   "image": "https://image.uniqlo.com/UQ/ST3/kr/imagesgoods/488559/item/krgoods_30_488559_3x4.jpg",
-   "url": "https://www.uniqlo.com/kr/ko/products/E488559-000/00",
-   "rating": 5,
-   "reviews": 2,
-   "since": "2026/11/24",
-   "sinceTs": 1795453200
   }
  ],
  "history": [
@@ -1648,7 +1648,7 @@
    "end": 1796317200,
    "firstSeen": "2026-11-27T07:16:10+09:00",
    "maxCount": 84,
-   "lastSeen": "2026-11-27T07:16:10+09:00"
+   "lastSeen": "2026-11-27T13:57:45+09:00"
   },
   {
    "key": "limitedOffer:1795107600:1795712400",
